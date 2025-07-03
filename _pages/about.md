@@ -15,97 +15,66 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
-I am currently a third-year Ph.D. student (2022–now) in the Department of Automation at the University of Science and Technology of China (USTC), supervised by <a href="https://scholar.google.com/citations?user=9sCGe-gAAAAJ&hl=en" target="_blank">Prof. Tianzhu Zhang</a>. I received my bachelor's degree in Computer Science and Technology from Central South University in 2022.
 
-My research interests lie in semantic segmentation, few-shot learning, and AI-generated content (AIGC).
+I am currently a third‑year Ph.D. student (2022 – now) in the Department of Automation, University of Science and Technology of China (USTC), advised by Prof. Tianzhu Zhang and Prof. Baoqun Yin. I received my M.Eng. degree from the Advanced Technology Research Institute, USTC in 2022 and my B.Eng. degree from Huazhong University of Science and Technology in 2020.
 
-I have published some papers at the top international AI conferences. 
-<!-- with <a href='https://scholar.google.com/citations?user=WelDcqkAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
+My research interests include computer vision, multimodal learning, and 2D‑3D image–point cloud registration.
 
+🔥 News
 
-# 🔥 News
-- *2025.05*: &nbsp;🎉🎉 <a href="https://icml.cc/virtual/2025/poster/46247" target="_blank">BLDA</a> was accepted by ICML 2025.
-- *2025.03*: &nbsp;🎉🎉 <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Dual-Agent_Optimization_framework_for_Cross-Domain_Few-Shot_Segmentation_CVPR_2025_paper.pdf" target="_blank">DATO</a> was accepted by CVPR 2025.
-- *2025.03*: &nbsp;🎉🎉 <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Unbiased_Video_Scene_Graph_Generation_via_Visual_and_Semantic_Dual_CVPR_2025_paper.pdf" target="_blank">VISA</a> was accepted by CVPR 2025.
-- *2024.12*: &nbsp;🎉🎉  I got <strong>1<sup>st</sup></strong> place on WSI-level Glomeruli Detection in Kidney Pathology Image Segmentation Challenge (MICCAI 2024).
-- *2024.07*: &nbsp;🎉🎉 <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09199.pdf" target="_blank">DLE</a> was accepted by ECCV 2024.
-- *2024.04*: &nbsp;🎉🎉 <a href="https://www.ijcai.org/proceedings/2024/0164.pdf" target="_blank">DENet</a> was accepted by IJCAI 2024.
-- *2023.09*: &nbsp;🎉🎉 I got <strong>1<sup>st</sup></strong> place on Cell Detection from Cell-Tissue Interaction Challenge (MICCAI 2023)
-- *2022.12*: &nbsp;🎉🎉 I got <strong>Meritorious Winner</strong> (Rank: 4/102) in the Weakly Supervised Cell Segmentation in Multi-modality High-Resolution Microscopy Images Challenge (NeurIPS 2022).
+2025.06:  🎉🎉 Our paper “Implicit Correspondence Learning for Image‑to‑Point Cloud Registration” was accepted by CVPR 2025 as a Highlight!
 
+2025.03:  🎉🎉 “Bridge 2D‑3D” was accepted by AAAI 2025.
 
+2025.03:  🎉🎉 “CA‑I2P” was accepted by ICCV 2025.
 
-# 📝 Publications 
+2024.06:  🏀 Won the championship in the USTC “复兴杯” Basketball Tournament 2024.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/BLDA.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+📝 Publications
 
-[Balanced Learning for Domain Adaptive Semantic Segmentation](https://icml.cc/virtual/2025/poster/46247)
-Wangkai Li, Rui Sun, Bohao Liao, **Zhaoyang Li**, Tianzhu Zhang.
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-</div>
-</div>
+Bridge 2D‑3D: Uncertainty‑aware Hierarchical Registration Network with Domain AlignmentZhixin Cheng, Jiacheng Deng, Xinjun Li, Baoqun Yin, Tianzhu Zhang
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/DATO.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+CA‑I2P: Channel‑Adaptive Registration Network with Global Optimal SelectionZhixin Cheng, Jiacheng Deng, Xinjun Li, Xiaotian Yin, Bohao Liao, Baoqun Yin, Wenfei Yang, Tianzhu Zhang
 
-[Dual-Agent Optimization framework for Cross-Domain Few-Shot Segmentation](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Dual-Agent_Optimization_framework_for_Cross-Domain_Few-Shot_Segmentation_CVPR_2025_paper.pdf)
+Implicit Correspondence Learning for Image‑to‑Point Cloud RegistrationXinjun Li, Wenfei Yang, Jiacheng Deng, Zhixin Cheng, Xu Zhou, Tianzhu Zhang
 
-**Zhaoyang Li**, Yuan Wang, Wangkai Li, Tianzhu Zhang, Xiang Liu
+🎖 Honors and Awards
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-</div>
-</div>
+First‑Class Scholarship, USTC Graduate School
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/VISA.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+Excellent Minister, Graduate Student Union, Advanced Technology Research Institute, USTC
 
-[Unbiased Video Scene Graph Generation via Visual and Semantic Dual Debiasing](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Unbiased_Video_Scene_Graph_Generation_via_Visual_and_Semantic_Dual_CVPR_2025_paper.pdf)
+USTC “复兴杯” Basketball Champion (2024) and Runner‑up (2023)
 
-Yanjun Li, **Zhaoyang Li**, Honghui Chen, Lizhi Xu
+Outstanding Graduate, Huazhong University of Science and Technology
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-</div>
-</div>
+📖 Education
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/DLE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+2022.09 – present: Ph.D. in Automation, USTC, Hefei, China
 
-[Localization and expansion: A decoupled framework for point cloud few-shot semantic segmentation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09199.pdf)
+2020.09 – 2022.08: M.Eng., Advanced Technology Research Institute, USTC, Hefei, China
 
-**Zhaoyang Li**, Yuan Wang, Wangkai Li, Rui Sun, Tianzhu Zhang
+2016.09 – 2020.06: B.Eng., School of Electrical and Electronic Engineering, Huazhong University of Science and Technology, Wuhan, China
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-</div>
-</div>
+💻 Internships
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/DEnet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+2021.09 – 2022.08: Research Intern, Brain‑Inspired Intelligence Platform, Hefei Comprehensive National Science Center, Hefei, China
 
-[Aggregation and purification: dual enhancement network for point cloud few-shot segmentation](https://www.ijcai.org/proceedings/2024/0164.pdf)
+2020.09 – 2021.03: AI Algorithm Intern, Nari‑Jiyuan Electric Grid Technology Co., Ltd., Hefei, China
 
-Guoxin Xiong, Yuan Wang, **Zhaoyang Li**, Wenfei Yang, Tianzhu Zhang, Xu Zhou, Shifeng Zhang, Yongdong Zhang
+🛠 Skills
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-</div>
-</div>
+Programming: Python, PyTorch, CUDA
 
+Research: Deep learning, Multimodal fusion, 2D‑3D registration
 
-# 🎖 Honors and Awards
-- First-class Scholarship, Graduate School of USTC
-- First-class Scholarship, Undergraduate School of Central South University
+Service: Reviewer for ICML, CVPR, ICCV, AAAI, ACM MM, TCSVT
 
+Language: CET‑6, good English writing and communication
 
-# 📖 Educations
-- *2022.09 - (now)*, Ph.D. student in the Department of Automation at the University of Science and Technology of China (USTC), Hefei.
-- *2018.09 - 2022.06*, Undergraduate, Central South University, Changsha.
+📬 Contact
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+Email: chengzhixin@mail.ustc.edu.cn
 
-# 💻 Internships
-- *2025.06-now*, Bytedance <img src="/images/bytedance_logo.png" alt="Bytedance Logo" style="height: 1em; vertical-align: middle; margin-left: 4px;">, Shanghai.
-- *2022.12-2024.06*, Institute of Artifical Intelligence, Hefei Comprehensive National Science Center <img src="/images/AI_lab.PNG" alt="AL Logo" style="height: 2em; vertical-align: middle; margin-left: 2px;">, Hefei.
+Phone: +86 189 5606 3563
 
