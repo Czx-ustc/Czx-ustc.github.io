@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Zhixin Cheng"
+excerpt: "Ph.D. student at USTC"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,27 +16,37 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-I am currently a third‑year Ph.D. student (2022 – now) in the Department of Automation, University of Science and Technology of China (USTC), advised by Prof. Tianzhu Zhang and Prof. Baoqun Yin. I received my M.Eng. degree from the Advanced Technology Research Institute, USTC in 2022 and my B.Eng. degree from Huazhong University of Science and Technology in 2020.
-
-My research interests include computer vision, multimodal learning, and 2D‑3D image–point cloud registration.
+I am currently a third‑year Ph.D. student (2022 – now) in the Department of Automation, University of Science and Technology of China (USTC), advised by Prof. Tianzhu Zhang and Prof. Baoqun Yin. I spent my M.Eng. studies at the Advanced Technology Research Institute, University of Science and Technology of China (USTC), and received my B.Eng. degree from Huazhong University of Science and Technology in 2020. My research interests include computer vision, multimodal learning, and image-to–point cloud registration.
 
 🔥 News
 
-2025.06:  🎉🎉 Our paper “Implicit Correspondence Learning for Image‑to‑Point Cloud Registration” was accepted by CVPR 2025 as a Highlight!
+2025.11:  🎉🎉 “Adaptive Agent Selection and Interaction Network for Image-to-point cloud Registration” was accepted by AAAI 2026.
 
-2025.03:  🎉🎉 “Bridge 2D‑3D” was accepted by AAAI 2025.
+2025.09:  🎉🎉 “CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection” was accepted by ICCV 2025.
 
-2025.03:  🎉🎉 “CA‑I2P” was accepted by ICCV 2025.
+2025.07:  🎉🎉 “EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting” and "BeyondMix: Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation" was accepted by NIPS 2025.
 
-2024.06:  🏀 Won the championship in the USTC “复兴杯” Basketball Tournament 2024.
+2025.02:  🎉🎉 “Implicit Correspondence Learning for Image‑to‑Point Cloud Registration” was accepted by CVPR 2025 as a Highlight!
+
+2024.12:  🎉🎉 “Bridge 2D-3D: Uncertainty-aware Hierarchical Registration Network with Domain Alignment” and "DiffCorr: Conditional Diffusion Model with Reliable PseudoLabel Guidance for Unsupervised Point Cloud Shape Correspondence" was accepted by AAAI 2025.
+
+2024.03:  🏀 Won the championship in the USTC “复兴杯” Basketball Tournament 2024.
 
 📝 Publications
 
-Bridge 2D‑3D: Uncertainty‑aware Hierarchical Registration Network with Domain AlignmentZhixin Cheng, Jiacheng Deng, Xinjun Li, Baoqun Yin, Tianzhu Zhang
+Adaptive Agent Selection and Interaction Network for Image-to-point cloud Registration || Zhixin Cheng, Xiaotian Yin, Jiacheng Deng, Yujia Chen, Bohao Liao, Wenfei Yang, Baoqun Yin
 
-CA‑I2P: Channel‑Adaptive Registration Network with Global Optimal SelectionZhixin Cheng, Jiacheng Deng, Xinjun Li, Xiaotian Yin, Bohao Liao, Baoqun Yin, Wenfei Yang, Tianzhu Zhang
+CA‑I2P: Channel‑Adaptive Registration Network with Global Optimal Selection || Zhixin Cheng, Jiacheng Deng, Xinjun Li, Xiaotian Yin, Bohao Liao, Baoqun Yin, Wenfei Yang, Tianzhu Zhang
 
-Implicit Correspondence Learning for Image‑to‑Point Cloud RegistrationXinjun Li, Wenfei Yang, Jiacheng Deng, Zhixin Cheng, Xu Zhou, Tianzhu Zhang
+Bridge 2D‑3D: Uncertainty‑aware Hierarchical Registration Network with Domain Alignment || Zhixin Cheng, Jiacheng Deng, Xinjun Li, Baoqun Yin, Tianzhu Zhang
+
+Implicit Correspondence Learning for Image‑to‑Point Cloud Registration || Xinjun Li, Wenfei Yang, Jiacheng Deng, Zhixin Cheng, Xu Zhou, Tianzhu Zhang
+
+EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting || Bohao Liao, Wei Zhai, Zengyu Wan, Zhixin Cheng, Wenfei Yang, Yang Cao, Tianzhu Zhang, ZhengJun Zha
+
+BeyondMix:Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation || Yujia Chen, Rui Sun, Wangkai Li, Huayu Mai, Si Chen, Zhuoyuan Li, Zhixin Cheng, Tianzhu Zhang
+
+DiffCorr: Conditional Diffusion Model with Reliable PseudoLabel Guidance for Unsupervised Point Cloud Shape Correspondence || Jiacheng Deng, Jiahao Lu, Zhixin Cheng, Wenfei Yang
 
 🎖 Honors and Awards
 
@@ -47,6 +57,8 @@ Excellent Minister, Graduate Student Union, Advanced Technology Research Institu
 USTC “复兴杯” Basketball Champion (2024) and Runner‑up (2023)
 
 Outstanding Graduate, Huazhong University of Science and Technology
+
+Level 10 Certification in Erhu Performance
 
 📖 Education
 
