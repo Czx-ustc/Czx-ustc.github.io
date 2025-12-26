@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhaoyang Li"
-description              : "Ph.D. loading..."
-repository               : "Lzy-dot/Lzy-dot.github.io"
+title                    : "Zhixin Cheng"
+description              : "Ph.D. student at USTC"
+repository               : "Czx-ustc/Czx-ustc.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhaoyang Li"
+  name             : "Zhixin Cheng"
   avatar           : "images/zhaoyang.png"
   bio              : "USTC"
   location         : "Anhui, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WelDcqkAAAAJ&hl=zh-CN"
-  email            : "lizhaoyang@mail.ustc.edu.cn"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=USToQWwAAAAJ&hl=zh-CN"
+  email            : "chengzhixin@mail.ustc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :  "Lzy-dot" # e.g., "github username"
+  github           :  "Czx-ustc" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,10 +45,10 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            :  "https://orcid.org/0009-0000-6451-5378" # e.g., "https://orcid.org/xxxx"
+  orcid            :  "https://orcid.org/my-orcid?orcid=0009-0003-6393-9533" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
