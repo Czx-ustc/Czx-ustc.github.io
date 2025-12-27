@@ -37,14 +37,15 @@ I am currently a third‑year Ph.D. student (2022 – now) in the Department
 
 2023.06:  🎤 Participated in the graduation gala.
 
-<div style="display: flex; gap: 12px; flex-wrap: wrap; margin-top: 10px;">
+<div style="display: flex; gap: 12px; margin-top: 10px;">
   <img src="images/iccv1.jpg" alt="ICCV 2025 in Hawaii 1"
-       style="width: 32%; max-width: 260px; border-radius: 12px;">
-  <img src="images/baketball.png" alt="ICCV 2025 in Hawaii 2"
-       style="width: 32%; max-width: 260px; border-radius: 12px;">
-  <img src="images/sing.png" alt="ICCV 2025 in Hawaii 3"
-       style="width: 32%; max-width: 260px; border-radius: 12px;">
+       style="flex: 1; width: 0; border-radius: 12px; object-fit: cover; aspect-ratio: 4 / 3;">
+  <img src="images/basketball.png" alt="basketball"
+       style="flex: 1; width: 0; border-radius: 12px; object-fit: cover; aspect-ratio: 4 / 3;">
+  <img src="images/sing.png" alt="sing"
+       style="flex: 1; width: 0; border-radius: 12px; object-fit: cover; aspect-ratio: 4 / 3;">
 </div>
+
 
 
 
@@ -73,17 +74,22 @@ I am currently a third‑year Ph.D. student (2022 – now) in the Department
 ---
 
 <table>
-<tr>
-<td width="35%">
-<img src="/images/ICCV25_poster_CAI2P.png" width="100%">
-</td>
-<td width="65%">
+  <tr>
+    <td width="35%">
+      <img src="/images/ICCV25_poster_CAI2P.png" width="100%"><br>
+      <img src="/images/iccv.png" width="100%" style="margin-top: 10px;">
+    </td>
+    <td width="65%">
+    </td>
+  </tr>
+</table>
+
 
 <h3>CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection</h3>
 <p>Zhixin Cheng, Jiacheng Deng, Xinjun Li, Xiaotian Yin, Bohao Liao, Baoqun Yin, Wenfei Yang*, Tianzhu Zhang</p>
 
 <p>
-  This paper addresses detection-free image-to-point cloud registration, where cross-modal channel mismatches and redundant top-k correspondences reduce matching quality. CA-I2P uses a Channel Adaptive Adjustment module to align channels across modalities and a Global Optimal Selection module to produce globally consistent matches for robust registration.
+  This paper addresses detection-free image-to-point cloud registration, where cross-modal channel mismatches and redundant top-k correspondences reduce matching quality. CA-I2P uses a Channel Adaptive Adjustment module to align channels across modalities and a Global Optimal Selection module to produce globally consistent matches for robust registration. We attend the conference and discussed our ideas with Google AI scientist Martin Sundermeyer.
 </p>
 
 
