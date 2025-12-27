@@ -41,10 +41,12 @@ I am currently a third‑year Ph.D. student (2022 – now) in the Department
 </td>
 <td width="65%">
 
-**Adaptive Agent Selection and Interaction Network for Image-to-Point Cloud Registration**  
-Zhixin Cheng, Xiaotian Yin, Jiacheng Deng, Yujia Chen, Bohao Liao, Wenfei Yang, Baoqun Yin  
+<h3>Adaptive Agent Selection and Interaction Network for Image-to-Point Cloud Registration</h3>
+<p>Zhixin Cheng, Xiaotian Yin, Jiacheng Deng, Yujia Chen, Bohao Liao, Wenfei Yang, Baoqun Yin</p>
+<p>
+  This paper targets the challenges of image-to-point-cloud registration under noise, where false correspondences are common and cross-modal information is difficult to filter effectively. It proposes a framework composed of Iterative Agent Selection and Reliable Agent Interaction: phase maps enhance structural perception, and reinforcement learning selects more reliable agents to guide cross-modal interaction, thereby reducing mismatches and improving robustness.
+</p>
 
-This paper targets the challenges of image-to-point-cloud registration under noise, where false correspondences are common and cross-modal information is difficult to filter effectively. It proposes a framework composed of Iterative Agent Selection (IAS) and Reliable Agent Interaction (RAI): phase maps enhance structural perception, and reinforcement learning selects more reliable “agents” to guide cross-modal interaction, thereby reducing mismatches and improving robustness.
 
 
 </td>
