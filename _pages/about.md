@@ -34,6 +34,60 @@ I am currently a third‑year Ph.D. student (2022 – now) in the Department
 
 📝 Publications
 
+<table>
+<tr>
+<td width="35%">
+<img src="/images/papers/AAAI26-Poster-CZX" width="100%">
+</td>
+<td width="65%">
+
+**Adaptive Agent Selection and Interaction Network for Image-to-Point Cloud Registration**  
+Zhixin Cheng, Xiaotian Yin, Jiacheng Deng, Yujia Chen, Bohao Liao, Wenfei Yang, Baoqun Yin  
+
+We propose an adaptive agent selection and interaction framework that dynamically identifies informative regions and models agent-level interactions for robust image-to-point cloud registration, especially under large viewpoint and modality gaps.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="35%">
+<img src="/images/papers/ICCV25_poster_CAI2P.png" width="100%">
+</td>
+<td width="65%">
+
+**CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection**  
+Zhixin Cheng, Jiacheng Deng, Xinjun Li, Xiaotian Yin, Bohao Liao, Baoqun Yin, Wenfei Yang, Tianzhu Zhang  
+
+CA-I2P introduces a channel-adaptive mechanism and a global optimal selection strategy to enhance cross-modal feature alignment, achieving robust and accurate 2D–3D registration.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="35%">
+<img src="/images/papers/aaai25_poster_B2-3Dnet.png" width="100%">
+</td>
+<td width="65%">
+
+**Bridge 2D-3D: Uncertainty-aware Hierarchical Registration Network with Domain Alignment**  
+Zhixin Cheng, Jiacheng Deng, Xinjun Li, Baoqun Yin, Tianzhu Zhang  
+
+This work bridges the domain gap between images and point clouds by leveraging uncertainty-aware hierarchical matching and domain alignment for reliable cross-modal registration.
+
+</td>
+</tr>
+</table>
+
+---
+
 Adaptive Agent Selection and Interaction Network for Image-to-point cloud Registration || Zhixin Cheng, Xiaotian Yin, Jiacheng Deng, Yujia Chen, Bohao Liao, Wenfei Yang, Baoqun Yin
 
 CA‑I2P: Channel‑Adaptive Registration Network with Global Optimal Selection || Zhixin Cheng, Jiacheng Deng, Xinjun Li, Xiaotian Yin, Bohao Liao, Baoqun Yin, Wenfei Yang, Tianzhu Zhang
