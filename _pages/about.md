@@ -18,7 +18,8 @@ redirect_from:
 
 I am currently a third‑year Ph.D. student (2022 – now) in the Department of Automation, University of Science and Technology of China (USTC), advised by Prof. Tianzhu Zhang and Prof. Baoqun Yin. I spent my M.Eng. studies at the Advanced Technology Research Institute, University of Science and Technology of China (USTC), and received my B.Eng. degree from Huazhong University of Science and Technology in 2020. My research interests include computer vision, multimodal learning, and image-to–point cloud registration.
 
-🔥 News
+<h2 style="font-size: 32px; font-weight: 700;">🔥 News</h2>
+
 
 2025.11:  🎉🎉 “Adaptive Agent Selection and Interaction Network for Image-to-point cloud Registration” was accepted by AAAI 2026.
 
@@ -117,7 +118,8 @@ I am currently a third‑year Ph.D. student (2022 – now) in the Department
 <p>Jiacheng Deng, Jiahao Lu, Zhixin Cheng, Wenfei Yang</p>
 
 
-🎖 Honors and Awards
+<h2 class="section-title">🏅 Honors and Awards</h2>
+
 
 First‑Class Scholarship, USTC Graduate School
 
@@ -129,7 +131,9 @@ Outstanding Graduate, Huazhong University of Science and Technology
 
 Level 10 Certification in Erhu Performance
 
-📖 Education
+
+<h2 class="section-title">📖 Education</h2>
+
 
 2022.09 – present: Ph.D. in Automation, USTC, Hefei, China
 
@@ -137,13 +141,17 @@ Level 10 Certification in Erhu Performance
 
 2016.09 – 2020.06: B.Eng., School of Electrical and Electronic Engineering, Huazhong University of Science and Technology, Wuhan, China
 
-💻 Internships
+
+<h2 class="section-title">💻 Internships</h2>
+
 
 2021.09 – 2022.08: Research Intern, Brain‑Inspired Intelligence Platform, Hefei Comprehensive National Science Center, Hefei, China
 
 2020.09 – 2021.03: AI Algorithm Intern, Nari‑Jiyuan Electric Grid Technology Co., Ltd., Hefei, China
 
-🛠 Skills
+
+<h2 class="section-title">🛠 Skills</h2>
+
 
 Programming: Python, PyTorch, CUDA
 
@@ -153,7 +161,9 @@ Service: Reviewer for ICML, CVPR, ICCV, AAAI, ACM MM, TCSVT
 
 Language: CET‑6, good English writing and communication
 
-📬 Contact
+
+<h2 class="section-title">📬 Contact</h2>
+
 
 Email: chengzhixin@mail.ustc.edu.cn
 
