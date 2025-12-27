@@ -25,7 +25,7 @@ I am currently a third‑year Ph.D. student (2022 – now) in the Department
 
 2025.09:  🎉🎉 “CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection” was accepted by ICCV 2025, and I attended the conference in Hawaii🌴🥥.
 
-<img src="images/iccv1.jpg" alt="ICCV 2025 in Hawaii" style="width: 35%; max-width: 360px; border-radius: 12px; margin-top: 10px;">
+
 
 2025.07:  🎉🎉 “EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting” and "BeyondMix: Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation" was accepted by NIPS 2025.
 
@@ -36,6 +36,16 @@ I am currently a third‑year Ph.D. student (2022 – now) in the Department
 2024.03:  🏀 Won the championship in the USTC “复兴杯” Basketball Tournament 2024.
 
 2023.06:  🎤 Participated in the graduation gala.
+
+<div style="display: flex; gap: 12px; flex-wrap: wrap; margin-top: 10px;">
+  <img src="images/iccv1.jpg" alt="ICCV 2025 in Hawaii 1"
+       style="width: 32%; max-width: 260px; border-radius: 12px;">
+  <img src="images/baketball.png" alt="ICCV 2025 in Hawaii 2"
+       style="width: 32%; max-width: 260px; border-radius: 12px;">
+  <img src="images/sing.png" alt="ICCV 2025 in Hawaii 3"
+       style="width: 32%; max-width: 260px; border-radius: 12px;">
+</div>
+
 
 
 <h2 style="font-size: 32px;">📝 Publications</h2>
