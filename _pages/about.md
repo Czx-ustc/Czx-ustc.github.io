@@ -144,11 +144,13 @@ Level 10 Certification in Erhu Performance
 
 <h2 class="section-title">💻 Internships</h2>
 
+2025.06 – 2025.10: Research Intern, COG1, Spark Large Model Research Institute, iFLYTEK, Hefei, China
 
 2021.09 – 2022.08: Research Intern, Brain‑Inspired Intelligence Platform, Hefei Comprehensive National Science Center, Hefei, China
 
 2020.09 – 2021.03: AI Algorithm Intern, Nari‑Jiyuan Electric Grid Technology Co., Ltd., Hefei, China
 
+2018.07 – 2018.09: Visiting Student, The University of Manchester, Manchester, UK
 
 <h2 class="section-title">🛠 Skills</h2>
 
