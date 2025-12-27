@@ -34,7 +34,9 @@ I am currently a third‑year Ph.D. student (2022 – now) in the Department
 
 2023.06:  🎤 Participated in the graduation gala.
 
-📝 Publications
+
+<h2 style="font-size: 32px;">📝 Publications</h2>
+
 
 <table>
 <tr>
