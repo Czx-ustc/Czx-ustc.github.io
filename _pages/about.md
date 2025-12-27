@@ -59,7 +59,11 @@ I am currently a fourth‑year Ph.D. student (2022 – now) in the Departmen
 </td>
 <td width="65%">
 
-<h3>Adaptive Agent Selection and Interaction Network for Image-to-Point Cloud Registration</h3>
+<h3>
+  <a href="https://arxiv.org/pdf/2511.05965" target="_blank" style="text-decoration: none; color: inherit;">
+    Adaptive Agent Selection and Interaction Network for Image-to-Point Cloud Registration
+  </a>
+</h3>
 <p><span style="color:#00B0F0;">Zhixin Cheng</span>, Xiaotian Yin, Jiacheng Deng, Bohao Liao, Yujia Chen, Xu Zhou, Wenfei Yang*, Baoqun Yin</p>
 <p>
   This paper targets the challenges of image-to-point-cloud registration under noise, where false correspondences are common and cross-modal information is difficult to filter effectively. It proposes a framework composed of Iterative Agent Selection and Reliable Agent Interaction: phase maps enhance structural perception, and reinforcement learning selects more reliable agents to guide cross-modal interaction, thereby reducing mismatches and improving robustness.
@@ -84,7 +88,12 @@ I am currently a fourth‑year Ph.D. student (2022 – now) in the Departmen
     <td width="65%">
 
 
-<h3>CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection</h3>
+<h3>
+  <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Cheng_CA-I2P_Channel-Adaptive_Registration_Network_with_Global_Optimal_Selection_ICCV_2025_paper.html" target="_blank" style="text-decoration: none; color: inherit;">
+    CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection
+  </a>
+</h3>
+
 <p><span style="color:#00B0F0;">Zhixin Cheng</span>, Jiacheng Deng, Xinjun Li, Xiaotian Yin, Bohao Liao, Baoqun Yin, Wenfei Yang*, Tianzhu Zhang</p>
 
 <p>
@@ -106,7 +115,12 @@ I am currently a fourth‑year Ph.D. student (2022 – now) in the Departmen
 </td>
 <td width="65%">
   
-<h3>Bridge 2D-3D: Uncertainty-aware Hierarchical Registration Network with Domain Alignment</h3>
+<h3>
+  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32251" target="_blank" style="text-decoration: none; color: inherit;">
+    Bridge 2D-3D: Uncertainty-aware Hierarchical Registration Network with Domain Alignment
+  </a>
+</h3>
+
 <p><span style="color:#00B0F0;">Zhixin Cheng</span>, Jiacheng Deng, Xinjun Li, Baoqun Yin, Tianzhu Zhang*</p>
 
 <p>
