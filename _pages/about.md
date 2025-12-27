@@ -71,8 +71,6 @@ redirect_from:
   This paper targets the challenges of image-to-point-cloud registration under noise, where false correspondences are common and cross-modal information is difficult to filter effectively. It proposes a framework composed of Iterative Agent Selection and Reliable Agent Interaction: phase maps enhance structural perception, and reinforcement learning selects more reliable agents to guide cross-modal interaction, thereby reducing mismatches and improving robustness.
 </p>
 
-
-
 </td>
 </tr>
 </table>
@@ -80,6 +78,7 @@ redirect_from:
 ---
 
 <table>
+   <tr>
 <td width="35%">
   <div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
     <img src="/images/ICCV25_poster_CAI2P.png" style="width: 95%; display: block; margin: 0 auto;">
