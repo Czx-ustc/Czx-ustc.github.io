@@ -25,13 +25,7 @@ I am currently a third‑year Ph.D. student (2022 – now) in the Department
 
 2025.09:  🎉🎉 “CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection” was accepted by ICCV 2025, and I attended the conference in Hawaii🌴🥥.
 
-<figure style="margin: 12px 0; text-align: center;">
-  <img src="images/iccv1.jpg" alt="ICCV 2025 in Hawaii"
-       style="width: 70%; max-width: 720px; border-radius: 12px;">
-  <figcaption style="font-size: 14px; opacity: 0.8; margin-top: 6px;">
-    ICCV 2025 · Hawaii
-  </figcaption>
-</figure>
+<img src="images/iccv1.jpg" alt="ICCV 2025 in Hawaii" style="width: 60%; max-width: 600px; border-radius: 12px; margin-top: 10px;">
 
 2025.07:  🎉🎉 “EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting” and "BeyondMix: Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation" was accepted by NIPS 2025.
 
