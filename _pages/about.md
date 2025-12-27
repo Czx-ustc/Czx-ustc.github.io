@@ -78,11 +78,10 @@ I am currently a fourth‑year Ph.D. student (2022 – now) in the Departmen
 ---
 
 <table>
-  <tr>
-    <td width="35%">
-  <div style="display: flex; flex-direction: column; gap: 10px;">
+<td width="35%">
+  <div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
     <img src="/images/ICCV25_poster_CAI2P.png" style="width: 100%; display: block;">
-    <img src="/images/iccv.png" style="width: 90%; display: block;">
+    <img src="/images/iccv.png" style="width: 98%; display: block; margin: 0 auto;">
   </div>
 </td>
     <td width="65%">
