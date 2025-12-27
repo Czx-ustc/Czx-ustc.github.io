@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-I am currently a third‑year Ph.D. student (2022 – now) in the Department of Automation, University of Science and Technology of China (USTC), advised by Prof. Tianzhu Zhang and Prof. Baoqun Yin. I spent my M.Eng. studies at the Advanced Technology Research Institute, University of Science and Technology of China (USTC), and received my B.Eng. degree from Huazhong University of Science and Technology in 2020. My research interests include computer vision, multimodal learning, and image-to–point cloud registration.
+I am currently a fourth‑year Ph.D. student (2022 – now) in the Department of Automation, University of Science and Technology of China (USTC), advised by Prof. Tianzhu Zhang and Prof. Baoqun Yin. I spent my M.Eng. studies at the Advanced Technology Research Institute, University of Science and Technology of China (USTC), and received my B.Eng. degree from Huazhong University of Science and Technology in 2020. My research interests include computer vision, multimodal learning, and image-to–point cloud registration.
 
 <h2 style="font-size: 32px; font-weight: 700;">🔥 News</h2>
 
