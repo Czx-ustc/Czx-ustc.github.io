@@ -26,8 +26,13 @@ I am currently a fourth‑year Ph.D. student (2022 – now) in the Departmen
 2025.09:  🎉🎉 “CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection” was accepted by ICCV 2025, and I attended the conference in Hawaii🌴🥥.
 
 
+2025.07:  🎉🎉 “EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting”
+<span style="background:#00B0F0; color:white; padding:2px 8px; border-radius:999px; font-size:12px; font-weight:700; margin-left:6px;">
+  Spotlight
+</span>
+and “BeyondMix: Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation”
+were accepted by NeurIPS 2025.
 
-2025.07:  🎉🎉 “EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting” and "BeyondMix: Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation" was accepted by NIPS 2025.
 
 2025.02:  🎉🎉 “Implicit Correspondence Learning for Image‑to‑Point Cloud Registration” was accepted by CVPR 2025 as a Highlight!
 
