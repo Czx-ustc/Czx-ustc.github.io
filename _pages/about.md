@@ -37,14 +37,15 @@ I am currently a third‑year Ph.D. student (2022 – now) in the Department
 <table>
 <tr>
 <td width="35%">
-<img src="/images/AAAI26-Poster-CZX" width="100%">
+<img src="/images/AAAI26-Poster-CZX.png" width="100%">
 </td>
 <td width="65%">
 
 **Adaptive Agent Selection and Interaction Network for Image-to-Point Cloud Registration**  
 Zhixin Cheng, Xiaotian Yin, Jiacheng Deng, Yujia Chen, Bohao Liao, Wenfei Yang, Baoqun Yin  
 
-We propose an adaptive agent selection and interaction framework that dynamically identifies informative regions and models agent-level interactions for robust image-to-point cloud registration, especially under large viewpoint and modality gaps.
+This paper targets the challenges of image-to-point-cloud registration under noise, where false correspondences are common and cross-modal information is difficult to filter effectively. It proposes a framework composed of Iterative Agent Selection (IAS) and Reliable Agent Interaction (RAI): phase maps enhance structural perception, and reinforcement learning selects more reliable “agents” to guide cross-modal interaction, thereby reducing mismatches and improving robustness.
+
 
 </td>
 </tr>
@@ -62,7 +63,8 @@ We propose an adaptive agent selection and interaction framework that dynamicall
 **CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection**  
 Zhixin Cheng, Jiacheng Deng, Xinjun Li, Xiaotian Yin, Bohao Liao, Baoqun Yin, Wenfei Yang, Tianzhu Zhang  
 
-CA-I2P introduces a channel-adaptive mechanism and a global optimal selection strategy to enhance cross-modal feature alignment, achieving robust and accurate 2D–3D registration.
+This paper addresses detection-free image-to-point cloud registration, where cross-modal channel mismatches and redundant top-k correspondences reduce matching quality. CA-I2P use a Channel Adaptive Adjustment module to align channels across modalities and a Global Optimal Selection module to produce globally consistent matches for robust registration.
+
 
 </td>
 </tr>
@@ -80,7 +82,7 @@ CA-I2P introduces a channel-adaptive mechanism and a global optimal selection st
 **Bridge 2D-3D: Uncertainty-aware Hierarchical Registration Network with Domain Alignment**  
 Zhixin Cheng, Jiacheng Deng, Xinjun Li, Baoqun Yin, Tianzhu Zhang  
 
-This work bridges the domain gap between images and point clouds by leveraging uncertainty-aware hierarchical matching and domain alignment for reliable cross-modal registration.
+This paper proposes B2-3Dnet for detection-free image-to-point cloud registration, aiming to reduce distraction from noisy image patches and narrow the cross-modal domain gap. It introduces an uncertainty-aware hierarchical matching module that estimates patch reliability and performs multi-scale coarse-to-fine interactions, and an adversarial modal alignment module that aligns image and point-cloud features using a gradient reversal strategy and a domain classifier.
 
 </td>
 </tr>
@@ -89,11 +91,11 @@ This work bridges the domain gap between images and point clouds by leveraging u
 ---
 
 
-Implicit Correspondence Learning for Image‑to‑Point Cloud Registration || Xinjun Li, Wenfei Yang, Jiacheng Deng, Zhixin Cheng, Xu Zhou, Tianzhu Zhang
-
 EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting || Bohao Liao, Wei Zhai, Zengyu Wan, Zhixin Cheng, Wenfei Yang, Yang Cao, Tianzhu Zhang, ZhengJun Zha
 
 BeyondMix:Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation || Yujia Chen, Rui Sun, Wangkai Li, Huayu Mai, Si Chen, Zhuoyuan Li, Zhixin Cheng, Tianzhu Zhang
+
+Implicit Correspondence Learning for Image‑to‑Point Cloud Registration || Xinjun Li, Wenfei Yang, Jiacheng Deng, Zhixin Cheng, Xu Zhou, Tianzhu Zhang
 
 DiffCorr: Conditional Diffusion Model with Reliable PseudoLabel Guidance for Unsupervised Point Cloud Shape Correspondence || Jiacheng Deng, Jiahao Lu, Zhixin Cheng, Wenfei Yang
 
