@@ -172,6 +172,10 @@ Level 10 Certification in Erhu Performance
 
 2016.09 – 2020.06: B.Eng., School of Electrical and Electronic Engineering, Huazhong University of Science and Technology, Wuhan, China
 
+2013.09 – 2016.06: Senior High School, Hefei No.8 High School, Hefei, China
+
+2010.09 – 2013.06: Junior High School, Hefei No.50 Middle School, Hefei, China
+
 
 <h2 class="section-title">💻 Internships</h2>
 
