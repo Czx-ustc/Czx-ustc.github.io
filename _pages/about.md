@@ -32,6 +32,8 @@ I am currently a third‑year Ph.D. student (2022 – now) in the Department
 
 2024.03:  🏀 Won the championship in the USTC “复兴杯” Basketball Tournament 2024.
 
+2023.06:  🎤 Participated in the graduation gala.
+
 📝 Publications
 
 <table>
@@ -42,7 +44,7 @@ I am currently a third‑year Ph.D. student (2022 – now) in the Department
 <td width="65%">
 
 <h3>Adaptive Agent Selection and Interaction Network for Image-to-Point Cloud Registration</h3>
-<p>Zhixin Cheng, Xiaotian Yin, Jiacheng Deng, Yujia Chen, Bohao Liao, Wenfei Yang, Baoqun Yin</p>
+<p>Zhixin Cheng, Xiaotian Yin, Jiacheng Deng, Yujia Chen, Bohao Liao, Wenfei Yang*, Baoqun Yin</p>
 <p>
   This paper targets the challenges of image-to-point-cloud registration under noise, where false correspondences are common and cross-modal information is difficult to filter effectively. It proposes a framework composed of Iterative Agent Selection and Reliable Agent Interaction: phase maps enhance structural perception, and reinforcement learning selects more reliable agents to guide cross-modal interaction, thereby reducing mismatches and improving robustness.
 </p>
@@ -62,10 +64,13 @@ I am currently a third‑year Ph.D. student (2022 – now) in the Department
 </td>
 <td width="65%">
 
-**CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection**  
-Zhixin Cheng, Jiacheng Deng, Xinjun Li, Xiaotian Yin, Bohao Liao, Baoqun Yin, Wenfei Yang, Tianzhu Zhang  
+<h3>CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection</h3>
+<p>Zhixin Cheng, Jiacheng Deng, Xinjun Li, Xiaotian Yin, Bohao Liao, Baoqun Yin, Wenfei Yang*, Tianzhu Zhang</p>
 
-This paper addresses detection-free image-to-point cloud registration, where cross-modal channel mismatches and redundant top-k correspondences reduce matching quality. CA-I2P use a Channel Adaptive Adjustment module to align channels across modalities and a Global Optimal Selection module to produce globally consistent matches for robust registration.
+<p>
+  This paper addresses detection-free image-to-point cloud registration, where cross-modal channel mismatches and redundant top-k correspondences reduce matching quality. CA-I2P uses a Channel Adaptive Adjustment module to align channels across modalities and a Global Optimal Selection module to produce globally consistent matches for robust registration.
+</p>
+
 
 
 </td>
@@ -80,11 +85,15 @@ This paper addresses detection-free image-to-point cloud registration, where cro
 <img src="/images/aaai25_poster_B2-3Dnet.png" width="100%">
 </td>
 <td width="65%">
+  
+<h3>Bridge 2D-3D: Uncertainty-aware Hierarchical Registration Network with Domain Alignment</h3>
+<p>Zhixin Cheng, Jiacheng Deng, Xinjun Li, Baoqun Yin, Tianzhu Zhang*</p>
 
-**Bridge 2D-3D: Uncertainty-aware Hierarchical Registration Network with Domain Alignment**  
-Zhixin Cheng, Jiacheng Deng, Xinjun Li, Baoqun Yin, Tianzhu Zhang  
+<p>
+  This paper proposes B2-3Dnet for detection-free image-to-point cloud registration, aiming to reduce distraction from noisy image patches and narrow the cross-modal domain gap. It introduces an uncertainty-aware hierarchical matching module that estimates patch reliability and performs multi-scale coarse-to-fine interactions, and an adversarial modal alignment module that aligns image and point-cloud features using a gradient reversal strategy and a domain classifier.
+</p>
 
-This paper proposes B2-3Dnet for detection-free image-to-point cloud registration, aiming to reduce distraction from noisy image patches and narrow the cross-modal domain gap. It introduces an uncertainty-aware hierarchical matching module that estimates patch reliability and performs multi-scale coarse-to-fine interactions, and an adversarial modal alignment module that aligns image and point-cloud features using a gradient reversal strategy and a domain classifier.
+
 
 </td>
 </tr>
@@ -93,13 +102,18 @@ This paper proposes B2-3Dnet for detection-free image-to-point cloud registratio
 ---
 
 
-EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting || Bohao Liao, Wei Zhai, Zengyu Wan, Zhixin Cheng, Wenfei Yang, Yang Cao, Tianzhu Zhang, ZhengJun Zha
+<h3>EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting</h3>
+<p>Bohao Liao, Wei Zhai, Zengyu Wan, Zhixin Cheng, Wenfei Yang, Yang Cao, Tianzhu Zhang, ZhengJun Zha</p>
 
-BeyondMix:Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation || Yujia Chen, Rui Sun, Wangkai Li, Huayu Mai, Si Chen, Zhuoyuan Li, Zhixin Cheng, Tianzhu Zhang
+<h3>BeyondMix: Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation</h3>
+<p>Yujia Chen, Rui Sun, Wangkai Li, Huayu Mai, Si Chen, Zhuoyuan Li, Zhixin Cheng, Tianzhu Zhang</p>
 
-Implicit Correspondence Learning for Image‑to‑Point Cloud Registration || Xinjun Li, Wenfei Yang, Jiacheng Deng, Zhixin Cheng, Xu Zhou, Tianzhu Zhang
+<h3>Implicit Correspondence Learning for Image-to-Point Cloud Registration</h3>
+<p>Xinjun Li, Wenfei Yang, Jiacheng Deng, Zhixin Cheng, Xu Zhou, Tianzhu Zhang</p>
 
-DiffCorr: Conditional Diffusion Model with Reliable PseudoLabel Guidance for Unsupervised Point Cloud Shape Correspondence || Jiacheng Deng, Jiahao Lu, Zhixin Cheng, Wenfei Yang
+<h3>DiffCorr: Conditional Diffusion Model with Reliable PseudoLabel Guidance for Unsupervised Point Cloud Shape Correspondence</h3>
+<p>Jiacheng Deng, Jiahao Lu, Zhixin Cheng, Wenfei Yang</p>
+
 
 🎖 Honors and Awards
 
