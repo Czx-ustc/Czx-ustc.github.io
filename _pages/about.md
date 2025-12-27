@@ -55,7 +55,7 @@ I am currently a fourth‑year Ph.D. student (2022 – now) in the Departmen
 <table>
 <tr>
 <td width="35%">
-<img src="/images/AAAI26-Poster-CZX.png" width="100%">
+<img src="/images/AAAI26.png" width="100%">
 </td>
 <td width="65%">
 
