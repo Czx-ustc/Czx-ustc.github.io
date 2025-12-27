@@ -21,7 +21,7 @@ I am currently a fourth‑year Ph.D. student (2022 – now) in the Departmen
 <h2 style="font-size: 32px; font-weight: 700;">🔥 News</h2>
 
 
-2025.11:  🎉🎉 “Adaptive Agent Selection and Interaction Network for Image-to-point cloud Registration” was accepted by AAAI 2026, and I will attend the conference in Singapore 🇸🇬.
+2025.11:  🎉🎉 “Adaptive Agent Selection and Interaction Network for Image-to-point cloud Registration” was accepted by AAAI 2026, and I will attend the conference in Singapore.
 
 2025.09:  🎉🎉 “CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection” was accepted by ICCV 2025, and I attended the conference in Hawaii🌴🥥.
 
@@ -35,7 +35,7 @@ I am currently a fourth‑year Ph.D. student (2022 – now) in the Departmen
 
 2024.03:  🏀🏀 Won the championship in the USTC “复兴杯” Basketball Tournament 2024.
 
-2023.06:  🎤🎤 Participated in the graduation gala.
+2023.06:   🎤🎤 Participated in the graduation gala.
 
 <div style="display: flex; gap: 12px; margin-top: 10px;">
   <img src="images/iccv1.jpg" alt="ICCV 2025 in Hawaii 1"
