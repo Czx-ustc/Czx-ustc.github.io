@@ -37,7 +37,7 @@ I am currently a third‑year Ph.D. student (2022 – now) in the Department
 <table>
 <tr>
 <td width="35%">
-<img src="/images/papers/AAAI26-Poster-CZX" width="100%">
+<img src="/images/AAAI26-Poster-CZX" width="100%">
 </td>
 <td width="65%">
 
@@ -55,7 +55,7 @@ We propose an adaptive agent selection and interaction framework that dynamicall
 <table>
 <tr>
 <td width="35%">
-<img src="/images/papers/ICCV25_poster_CAI2P.png" width="100%">
+<img src="/images/ICCV25_poster_CAI2P.png" width="100%">
 </td>
 <td width="65%">
 
@@ -73,7 +73,7 @@ CA-I2P introduces a channel-adaptive mechanism and a global optimal selection st
 <table>
 <tr>
 <td width="35%">
-<img src="/images/papers/aaai25_poster_B2-3Dnet.png" width="100%">
+<img src="/images/aaai25_poster_B2-3Dnet.png" width="100%">
 </td>
 <td width="65%">
 
@@ -88,11 +88,6 @@ This work bridges the domain gap between images and point clouds by leveraging u
 
 ---
 
-Adaptive Agent Selection and Interaction Network for Image-to-point cloud Registration || Zhixin Cheng, Xiaotian Yin, Jiacheng Deng, Yujia Chen, Bohao Liao, Wenfei Yang, Baoqun Yin
-
-CA‑I2P: Channel‑Adaptive Registration Network with Global Optimal Selection || Zhixin Cheng, Jiacheng Deng, Xinjun Li, Xiaotian Yin, Bohao Liao, Baoqun Yin, Wenfei Yang, Tianzhu Zhang
-
-Bridge 2D‑3D: Uncertainty‑aware Hierarchical Registration Network with Domain Alignment || Zhixin Cheng, Jiacheng Deng, Xinjun Li, Baoqun Yin, Tianzhu Zhang
 
 Implicit Correspondence Learning for Image‑to‑Point Cloud Registration || Xinjun Li, Wenfei Yang, Jiacheng Deng, Zhixin Cheng, Xu Zhou, Tianzhu Zhang
 
