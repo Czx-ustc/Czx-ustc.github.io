@@ -29,20 +29,22 @@ redirect_from:
 <h2 id="news" style="font-size: 32px; font-weight: 700;">🔥 News</h2>
 
 
-2025.11:  🎉🎉 “Adaptive Agent Selection and Interaction Network for Image-to-point cloud Registration” was accepted by AAAI 2026, and I will attend the conference in Singapore.
+<div style="font-size: 18px; line-height: 1.7;">
+  <p><strong>2025.11:</strong> 🎉🎉 “Adaptive Agent Selection and Interaction Network for Image-to-point cloud Registration” was accepted by AAAI 2026, and I will attend the conference in Singapore.</p>
 
-2025.09:  🎉🎉 “CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection” was accepted by ICCV 2025, and I attended the conference in Hawaii🌴🥥.
+  <p><strong>2025.09:</strong> 🎉🎉 “CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection” was accepted by ICCV 2025, and I attended the conference in Hawaii 🌴🥥.</p>
 
+  <p><strong>2025.07:</strong> 🎉🎉 “EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting” (Spotlight) and “BeyondMix: Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation” were accepted by NeurIPS 2025.</p>
 
-2025.07:  🎉🎉 “EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting” (Spotlight) and “BeyondMix: Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation” were accepted by NeurIPS 2025.
+  <p><strong>2025.02:</strong> 🎉🎉 “Implicit Correspondence Learning for Image-to-Point Cloud Registration” was accepted by CVPR 2025 as a Highlight!</p>
 
-2025.02:  🎉🎉 “Implicit Correspondence Learning for Image‑to‑Point Cloud Registration” was accepted by CVPR 2025 as a Highlight!
+  <p><strong>2024.12:</strong> 🎉🎉 “Bridge 2D-3D: Uncertainty-aware Hierarchical Registration Network with Domain Alignment” and “DiffCorr: Conditional Diffusion Model with Reliable PseudoLabel Guidance for Unsupervised Point Cloud Shape Correspondence” was accepted by AAAI 2025.</p>
 
-2024.12:  🎉🎉 “Bridge 2D-3D: Uncertainty-aware Hierarchical Registration Network with Domain Alignment” and "DiffCorr: Conditional Diffusion Model with Reliable PseudoLabel Guidance for Unsupervised Point Cloud Shape Correspondence" was accepted by AAAI 2025.
+  <p><strong>2024.03:</strong> 🏀🏀 Won the championship in the USTC “复兴杯” Basketball Tournament 2024.</p>
 
-2024.03:  🏀🏀 Won the championship in the USTC “复兴杯” Basketball Tournament 2024.
+  <p><strong>2023.06:</strong> 🎤🎤 Participated in the graduation gala.</p>
+</div>
 
-2023.06:   🎤🎤 Participated in the graduation gala.
 
 <div style="display: flex; gap: 12px; margin-top: 10px;">
   <img src="images/iccv1.jpg" alt="ICCV 2025 in Hawaii 1"
