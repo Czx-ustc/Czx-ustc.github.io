@@ -21,7 +21,7 @@ redirect_from:
   am currently a fourth-year Ph.D. student (2022 – now) in the Department of Automation, University of Science and Technology of China (USTC), advised by Prof. Tianzhu Zhang and Prof. Baoqun Yin. I spent my M.Eng. studies at the Advanced Technology Research Institute, University of Science and Technology of China (USTC), and received my B.Eng. degree from Huazhong University of Science and Technology in 2020. My research interests include computer vision, multimodal learning, and 3D vision.
 </p>
 
-<h2 style="font-size: 32px; font-weight: 700;">🔥 News</h2>
+<h2 id="news" style="font-size: 32px; font-weight: 700;">🔥 News</h2>
 
 
 2025.11:  🎉🎉 “Adaptive Agent Selection and Interaction Network for Image-to-point cloud Registration” was accepted by AAAI 2026, and I will attend the conference in Singapore.
@@ -51,7 +51,7 @@ redirect_from:
 
 
 
-<h2 style="font-size: 32px;">📝 Publications</h2>
+<h2 id="publications" style="font-size: 32px;">📝 Publications</h2>
 
 
 <table>
@@ -149,7 +149,7 @@ redirect_from:
 <p>Jiacheng Deng, Jiahao Lu, <span style="color:#00B0F0;">Zhixin Cheng</span>, Wenfei Yang</p>
 
 
-<h2 class="section-title">🏅 Honors and Awards</h2>
+<h2 id="honors-and-awards" class="section-title">🏅 Honors and Awards</h2>
 
 
 First‑Class Scholarship, USTC Graduate School
@@ -163,7 +163,7 @@ Outstanding Graduate, Huazhong University of Science and Technology
 Level 10 Certification in Erhu Performance
 
 
-<h2 class="section-title">📖 Education</h2>
+<h2 id="education" class="section-title">📖 Education</h2>
 
 
 2022.09 – present: Ph.D. in Automation, USTC, Hefei, China
@@ -177,7 +177,7 @@ Level 10 Certification in Erhu Performance
 2010.09 – 2013.06: Junior High School, Hefei No.50 Middle School, Hefei, China
 
 
-<h2 class="section-title">💻 Internships</h2>
+<h2 id="internships" class="section-title">💻 Internships</h2>
 
 2025.06 – 2025.10: Research Intern, COG1, Spark Large Model Research Institute, iFLYTEK, Hefei, China
 
@@ -187,7 +187,7 @@ Level 10 Certification in Erhu Performance
 
 2018.07 – 2018.09: Visiting Student, The University of Manchester, Manchester, UK
 
-<h2 class="section-title">🛠 Skills</h2>
+<h2 id="skills" class="section-title">🛠 Skills</h2>
 
 
 Programming: Python, PyTorch, CUDA
@@ -199,7 +199,7 @@ Service: Reviewer for ICML, CVPR, ICCV, AAAI, ACM MM, TCSVT
 Language: CET‑6, good English writing and communication
 
 
-<h2 class="section-title">📬 Contact</h2>
+<h2 id="contact" class="section-title">📬 Contact</h2>
 
 
 Email: chengzhixin@mail.ustc.edu.cn
