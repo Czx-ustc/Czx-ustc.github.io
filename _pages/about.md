@@ -17,7 +17,7 @@ redirect_from:
 
 
 <p>
-  <span style="font-size: 34px; font-weight: 800; line-height: 1; vertical-align: baseline;">I</span>
+  <span style="font-size: 28px; font-weight: 800; line-height: 1; vertical-align: baseline;">I</span>
   am currently a fourth-year Ph.D. student (2022 – now) in the Department of Automation, University of Science and Technology of China (USTC), advised by Prof. Tianzhu Zhang and Prof. Baoqun Yin. I spent my M.Eng. studies at the Advanced Technology Research Institute, University of Science and Technology of China (USTC), and received my B.Eng. degree from Huazhong University of Science and Technology in 2020. My research interests include computer vision, multimodal learning, and 3D vision.
 </p>
 
