@@ -157,16 +157,16 @@ redirect_from:
 
 
 <h3>EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting</h3>
-<p>Bohao Liao, Wei Zhai, Zengyu Wan, <span style="color:#00B0F0;">Zhixin Cheng</span>, Wenfei Yang, Yang Cao, Tianzhu Zhang, ZhengJun Zha</p>
+<p>Bohao Liao, Wei Zhai*, Zengyu Wan, <span style="color:#00B0F0;">Zhixin Cheng</span>, Wenfei Yang, Yang Cao, Tianzhu Zhang, ZhengJun Zha</p>
 
 <h3>BeyondMix: Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation</h3>
-<p>Yujia Chen, Rui Sun, Wangkai Li, Huayu Mai, Si Chen, Zhuoyuan Li, <span style="color:#00B0F0;">Zhixin Cheng</span>, Tianzhu Zhang</p>
+<p>Yujia Chen, Rui Sun, Wangkai Li, Huayu Mai, Si Chen, Zhuoyuan Li, <span style="color:#00B0F0;">Zhixin Cheng</span>, Tianzhu Zhang*</p>
 
 <h3>Implicit Correspondence Learning for Image-to-Point Cloud Registration</h3>
-<p>Xinjun Li, Wenfei Yang, Jiacheng Deng, <span style="color:#00B0F0;">Zhixin Cheng</span>, Xu Zhou, Tianzhu Zhang</p>
+<p>Xinjun Li, Wenfei Yang*, Jiacheng Deng, <span style="color:#00B0F0;">Zhixin Cheng</span>, Xu Zhou, Tianzhu Zhang</p>
 
 <h3>DiffCorr: Conditional Diffusion Model with Reliable PseudoLabel Guidance for Unsupervised Point Cloud Shape Correspondence</h3>
-<p>Jiacheng Deng, Jiahao Lu, <span style="color:#00B0F0;">Zhixin Cheng</span>, Wenfei Yang</p>
+<p>Jiacheng Deng, Jiahao Lu, <span style="color:#00B0F0;">Zhixin Cheng</span>, Wenfei Yang*</p>
 
 
 <h2 id="honors-and-awards" class="section-title">🏅 Honors and Awards</h2>
