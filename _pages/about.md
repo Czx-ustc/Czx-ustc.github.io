@@ -157,7 +157,7 @@ redirect_from:
 
 
 <h3>EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting</h3>
-<p>Bohao Liao, Wei Zhai*, Zengyu Wan, <span style="color:#00B0F0;">Zhixin Cheng</span>, Wenfei Yang, Yang Cao, Tianzhu Zhang, ZhengJun Zha</p>
+<p>Bohao Liao, Wei Zhai*, Zengyu Wan, <span style="color:#00B0F0;">Zhixin Cheng</span>, Wenfei Yang, Yang Cao, Tianzhu Zhang, Zhengjun Zha</p>
 
 <h3>BeyondMix: Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation</h3>
 <p>Yujia Chen, Rui Sun, Wangkai Li, Huayu Mai, Si Chen, Zhuoyuan Li, <span style="color:#00B0F0;">Zhixin Cheng</span>, Tianzhu Zhang*</p>
