@@ -66,7 +66,6 @@ redirect_from:
 
 <h2 id="publications" style="font-size: 32px;">📝 Publications</h2>
 
-
 <table>
 <tr>
 <td width="35%">
