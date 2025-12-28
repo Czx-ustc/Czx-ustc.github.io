@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Zhixin Cheng"
-excerpt: "Ph.D. student at USTC"
+excerpt: "Ph.D. loading..."
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,8 +18,14 @@ redirect_from:
 
 <p style="font-size: 18px; line-height: 1.7;">
   I am currently a fourth-year Ph.D. student (2022 – now) in the Department of Automation,
-  University of Science and Technology of China (USTC), advised by Prof. Tianzhu Zhang and
-  Prof. Baoqun Yin. I spent my M.Eng. studies at the Advanced Technology Research Institute,
+  University of Science and Technology of China (USTC), advised by
+  <a href="http://staff.ustc.edu.cn/~tzzhang/" target="_blank" style="text-decoration: none; color: inherit;">
+    Prof. Tianzhu Zhang
+  </a>
+  and 
+  <a href="https://faculty.ustc.edu.cn/yinbaoqun/en/index.htm" target="_blank" style="text-decoration: none; color: inherit;">
+    Prof. Baoqun Yin</a>.
+  I spent my M.Eng. studies at the Advanced Technology Research Institute,
   University of Science and Technology of China (USTC), and received my B.Eng. degree from
   Huazhong University of Science and Technology in 2020. My research interests include
   computer vision, multimodal learning, and 3D vision.
@@ -168,6 +174,8 @@ redirect_from:
 
 First‑Class Scholarship, USTC Graduate School
 
+Deep Space Exploration Scholarship
+
 Excellent Minister, Graduate Student Union, Advanced Technology Research Institute, USTC
 
 USTC “复兴杯” Basketball Champion (2024) and Runner‑up (2023)
@@ -197,7 +205,9 @@ Level 10 Certification in Erhu Performance
 
 2021.09 – 2022.08: Research Intern, Brain‑Inspired Intelligence Platform, Hefei Comprehensive National Science Center, Hefei, China
 
-2020.09 – 2021.03: AI Algorithm Intern, Nari‑Jiyuan Electric Grid Technology Co., Ltd., Hefei, China
+2020.09 – 2021.03: AI Algorithm Intern, Jiyuan–Huawei Ascend Joint Laboratory,
+NARI Jiyuan Electric Grid Technology Co., Ltd., Hefei, China
+
 
 2018.07 – 2018.09: Visiting Student, The University of Manchester, Manchester, UK
 
@@ -206,9 +216,9 @@ Level 10 Certification in Erhu Performance
 
 Programming: Python, PyTorch, CUDA
 
-Research: Deep learning, Multimodal fusion, 2D‑3D registration
+Research: Deep learning, Multimodal fusion, 3D vision task
 
-Service: Reviewer for ICML, CVPR, ICCV, AAAI, ACM MM, TCSVT
+Service: Reviewer for ICML, CVPR, ICCV, AAAI, NIPS, ICLR, ACM MM, TCSVT, TMM
 
 Language: CET‑6, good English writing and communication
 
