@@ -156,16 +156,32 @@ redirect_from:
 ---
 
 
-<h3>EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting</h3>
+<h3>
+  <a href="https://arxiv.org/pdf/2410.15392" target="_blank" style="text-decoration: none; color: inherit;">
+    EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting
+  </a>
+</h3>
 <p>Bohao Liao, Wei Zhai*, Zengyu Wan, <span style="color:#00B0F0;">Zhixin Cheng</span>, Wenfei Yang, Yang Cao, Tianzhu Zhang, Zhengjun Zha</p>
 
-<h3>BeyondMix: Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation</h3>
+<h3>
+  <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/115060" target="_blank" style="text-decoration: none; color: inherit;">
+    BeyondMix: Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation
+  </a>
+</h3>
 <p>Yujia Chen, Rui Sun, Wangkai Li, Huayu Mai, Si Chen, Zhuoyuan Li, <span style="color:#00B0F0;">Zhixin Cheng</span>, Tianzhu Zhang*</p>
 
-<h3>Implicit Correspondence Learning for Image-to-Point Cloud Registration</h3>
+<h3>
+  <a href="https://cvpr.thecvf.com/virtual/2025/poster/32978" target="_blank" style="text-decoration: none; color: inherit;">
+    Implicit Correspondence Learning for Image-to-Point Cloud Registration
+  </a>
+</h3>
 <p>Xinjun Li, Wenfei Yang*, Jiacheng Deng, <span style="color:#00B0F0;">Zhixin Cheng</span>, Xu Zhou, Tianzhu Zhang</p>
 
-<h3>DiffCorr: Conditional Diffusion Model with Reliable PseudoLabel Guidance for Unsupervised Point Cloud Shape Correspondence</h3>
+<h3>
+  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32273" target="_blank" style="text-decoration: none; color: inherit;">
+    DiffCorr: Conditional Diffusion Model with Reliable PseudoLabel Guidance for Unsupervised Point Cloud Shape Correspondence
+  </a>
+</h3>
 <p>Jiacheng Deng, Jiahao Lu, <span style="color:#00B0F0;">Zhixin Cheng</span>, Wenfei Yang*</p>
 
 
