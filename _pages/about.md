@@ -40,7 +40,7 @@ redirect_from:
 
   <p><strong>2025.10:</strong> 🎉🎉 “EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting” (Spotlight) and “BeyondMix: Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation” were accepted by NeurIPS 2025.</p>
 
-  <p><strong>2025.06:</strong> 🎉🎉 “CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection” was accepted by ICCV 2025, and I attended the conference in Hawaii🌴🥥.</p>
+  <p><strong>2025.06:</strong> 🎉🎉 “CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection” was accepted by ICCV 2025, and I attended the conference in Hawaii🥥.</p>
 
   <p><strong>2025.02:</strong> 🎉🎉 “Implicit Correspondence Learning for Image-to-Point Cloud Registration” was accepted by CVPR 2025 as a Highlight!</p>
 
