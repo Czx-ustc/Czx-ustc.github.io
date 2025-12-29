@@ -28,7 +28,7 @@ redirect_from:
   I spent my M.Eng. studies at the Advanced Technology Research Institute, USTC.
   Huazhong University of Science and Technology conferred upon me a B.Eng. degree in 2020 from the School of Electrical and Electronic Engineering.
   My research interests include
-  computer vision, multimodal learning and 3D vision.
+  computer vision, multimodal learning and 3D vision🐼.
 </p>
 
 
@@ -36,11 +36,11 @@ redirect_from:
 
 
 <div style="font-size: 18px; line-height: 1.7;">
-  <p><strong>2025.11:</strong> 🎉🎉 “Adaptive Agent Selection and Interaction Network for Image-to-point cloud Registration” was accepted by AAAI 2026, and I will attend the conference in Singapore.</p>
+  <p><strong>2025.11:</strong> 🎉🎉 “Adaptive Agent Selection and Interaction Network for Image-to-point cloud Registration” was accepted by AAAI 2026, and I will attend the conference in Singapore🦁.</p>
 
   <p><strong>2025.10:</strong> 🎉🎉 “EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting” (Spotlight) and “BeyondMix: Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation” were accepted by NeurIPS 2025.</p>
 
-  <p><strong>2025.06:</strong> 🎉🎉 “CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection” was accepted by ICCV 2025, and I attended the conference in Hawaii 🌴🥥.</p>
+  <p><strong>2025.06:</strong> 🎉🎉 “CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection” was accepted by ICCV 2025, and I attended the conference in Hawaii🌴🥥.</p>
 
   <p><strong>2025.02:</strong> 🎉🎉 “Implicit Correspondence Learning for Image-to-Point Cloud Registration” was accepted by CVPR 2025 as a Highlight!</p>
 
@@ -198,7 +198,7 @@ redirect_from:
 <h2 id="honors-and-awards" class="section-title">🏅 Honors and Awards</h2>
 
 
-First‑Class Scholarship, USTC Graduate School
+First‑Class Scholarship, USTC Graduate School📜
 
 Deep Space Exploration Scholarship
 
@@ -208,7 +208,7 @@ USTC “复兴杯” Basketball Champion (2024) and Runner‑up (2023)
 
 Outstanding Graduate, Huazhong University of Science and Technology
 
-Level 10 Certification in Erhu Performance
+Level 10 Certification in Erhu Performance🎶
 
 
 <h2 id="education" class="section-title">📖 Education</h2>
@@ -235,7 +235,7 @@ Level 10 Certification in Erhu Performance
 NARI Jiyuan Electric Grid Technology Co., Ltd., Hefei, China
 
 
-2018.07 – 2018.09: Visiting Student, The University of Manchester, Manchester, UK
+2018.07 – 2018.09: Visiting Student, The University of Manchester, Manchester, UK🎡
 
 <h2 id="skills" class="section-title">🛠 Skills</h2>
 
