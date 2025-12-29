@@ -85,7 +85,7 @@ redirect_from:
 </p>
 
 <h3>
-  <span style="font-size: 14px; color: #D2B48C;">Presented at Association for the Advancement of Artificial Intelligence 2026</span>
+  <span style="font-size: 14px; color: #FFE6FA;">Presented at Association for the Advancement of Artificial Intelligence 2026</span>
 </h3>
 
 </td>
@@ -123,7 +123,7 @@ redirect_from:
 </p>
 
 <h3>
-  <span style="font-size: 14px; color: #D2B48C;">Presented at International Conference on Computer Vision 2025</span>
+  <span style="font-size: 14px; color: #FFE6FA;">Presented at International Conference on Computer Vision 2025</span>
 </h3>
 
 </td>
@@ -156,7 +156,7 @@ redirect_from:
 </p>
 
 <h3>
-  <span style="font-size: 14px; color: #D2B48C;">Presented at Association for the Advancement of Artificial Intelligence 2025</span>
+  <span style="font-size: 14px; color: #FFE6FA;">Presented at Association for the Advancement of Artificial Intelligence 2025</span>
 </h3>
 
 </td>
@@ -168,7 +168,7 @@ redirect_from:
 
 <h3>
   <a href="https://arxiv.org/pdf/2410.15392" target="_blank" style="text-decoration: none; color: inherit;">
-    EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting
+    EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting (Spotlight)
   </a>
 </h3>
 <p>Bohao Liao, Wei Zhai*, Zengyu Wan, <span style="color:#00B0F0;">Zhixin Cheng</span>, Wenfei Yang, Yang Cao, Tianzhu Zhang, Zhengjun Zha</p>
@@ -182,7 +182,7 @@ redirect_from:
 
 <h3>
   <a href="https://cvpr.thecvf.com/virtual/2025/poster/32978" target="_blank" style="text-decoration: none; color: inherit;">
-    Implicit Correspondence Learning for Image-to-Point Cloud Registration
+    Implicit Correspondence Learning for Image-to-Point Cloud Registration (Highlight)
   </a>
 </h3>
 <p>Xinjun Li, Wenfei Yang*, Jiacheng Deng, <span style="color:#00B0F0;">Zhixin Cheng</span>, Xu Zhou, Tianzhu Zhang</p>
