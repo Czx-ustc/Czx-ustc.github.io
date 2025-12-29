@@ -74,7 +74,9 @@ redirect_from:
 <td width="65%">
 
 <h3>
-  <span style="font-size: 14px; color: #FF69B4;">Association for the Advancement of Artificial Intelligence 2026</span>
+  <span style="font-size: 14px; color: #1E90FF;">Association for the Advancement of Artificial Intelligence 2026</span>
+</h3>
+<h3>
   <a href="https://arxiv.org/pdf/2511.05965" target="_blank" style="text-decoration: none; color: #1a73e8; font-size: 28px; font-weight: 600;">
     Adaptive Agent Selection and Interaction Network for Image-to-Point Cloud Registration
   </a>
@@ -104,13 +106,16 @@ redirect_from:
 
 
 <h3>
-  <span style="font-size: 14px; color: #FF69B4;">International Conference on Computer Vision 2025</span>
+  <span style="font-size: 14px; color: #1E90FF;">International Conference on Computer Vision 2025</span>
+</h3>
+<h3>
   <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Cheng_CA-I2P_Channel-Adaptive_Registration_Network_with_Global_Optimal_Selection_ICCV_2025_paper.html"
      target="_blank"
      style="text-decoration: none; color: #1a73e8; font-size: 28px; font-weight: 600;">
     CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection
   </a>
 </h3>
+
 
 
 <p><span style="color:#00B0F0;">Zhixin Cheng</span>, Jiacheng Deng, Xinjun Li, Xiaotian Yin, Bohao Liao, Baoqun Yin, Wenfei Yang*, Tianzhu Zhang</p>
@@ -135,13 +140,16 @@ redirect_from:
 <td width="65%">
   
 <h3>
-  <span style="font-size: 14px; color: #FF69B4;">Association for the Advancement of Artificial Intelligence 2025</span>
-<a href="https://ojs.aaai.org/index.php/AAAI/article/view/32251"
+  <span style="font-size: 14px; color: #1E90FF;">Association for the Advancement of Artificial Intelligence 2025</span>
+</h3>
+<h3>
+  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32251"
    target="_blank"
    style="text-decoration: none; color: #1a73e8; font-size: 28px; font-weight: 600;">
   Bridge 2D-3D: Uncertainty-aware Hierarchical Registration Network with Domain Alignment
-</a>
+  </a>
 </h3>
+
 
 <p><span style="color:#00B0F0;">Zhixin Cheng</span>, Jiacheng Deng, Xinjun Li, Baoqun Yin, Tianzhu Zhang*</p>
 
