@@ -85,7 +85,7 @@ redirect_from:
 </p>
 
 <h3>
-  <span style="font-size: 14px; color: #FFE6FA;">Presented at Association for the Advancement of Artificial Intelligence 2026</span>
+  <span style="font-size: 18px; color: #FF1493;">Presented at Association for the Advancement of Artificial Intelligence 2026</span>
 </h3>
 
 </td>
@@ -123,7 +123,7 @@ redirect_from:
 </p>
 
 <h3>
-  <span style="font-size: 14px; color: #FFE6FA;">Presented at International Conference on Computer Vision 2025</span>
+  <span style="font-size: 18px; color: #FF1493;">Presented at International Conference on Computer Vision 2025</span>
 </h3>
 
 </td>
@@ -156,7 +156,7 @@ redirect_from:
 </p>
 
 <h3>
-  <span style="font-size: 14px; color: #FFE6FA;">Presented at Association for the Advancement of Artificial Intelligence 2025</span>
+  <span style="font-size: 18px; color: #FF1493;">Presented at Association for the Advancement of Artificial Intelligence 2025</span>
 </h3>
 
 </td>
