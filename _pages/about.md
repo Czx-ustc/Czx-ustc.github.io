@@ -28,7 +28,7 @@ redirect_from:
   I spent my M.Eng. studies at the Advanced Technology Research Institute, USTC.
   Huazhong University of Science and Technology conferred upon me a B.Eng. degree in 2020 from the School of Electrical and Electronic Engineering.
   My research interests include
-  computer vision, multimodal learning and 3D vision🐼.
+  computer vision, multimodal learning and 3D vision.
 </p>
 
 
@@ -198,7 +198,7 @@ redirect_from:
 <h2 id="honors-and-awards" class="section-title">🏅 Honors and Awards</h2>
 
 
-First‑Class Scholarship, USTC Graduate School📜
+First‑Class Scholarship, USTC Graduate School
 
 Deep Space Exploration Scholarship
 
