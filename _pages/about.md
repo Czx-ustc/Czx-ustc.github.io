@@ -85,7 +85,7 @@ redirect_from:
 </p>
 
 <h3>
-  <span style="font-size: 14px; color: #32CD32;">Association for the Advancement of Artificial Intelligence 2026</span>
+  <span style="font-size: 14px; color: #D2B48C;">Presented at Association for the Advancement of Artificial Intelligence 2026</span>
 </h3>
 
 </td>
@@ -105,9 +105,7 @@ redirect_from:
     <td width="65%">
 
 
-<h3>
-  <span style="font-size: 14px; color: #1E90FF;">International Conference on Computer Vision 2025</span>
-</h3>
+
 <h3>
   <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Cheng_CA-I2P_Channel-Adaptive_Registration_Network_with_Global_Optimal_Selection_ICCV_2025_paper.html"
      target="_blank"
@@ -124,7 +122,9 @@ redirect_from:
   This paper addresses detection-free image-to-point cloud registration, where cross-modal channel mismatches and redundant top-k correspondences reduce matching quality. CA-I2P uses a Channel Adaptive Adjustment module to align channels across modalities and a Global Optimal Selection module to produce globally consistent matches for robust registration. We attend the conference and discussed our ideas with Google AI scientist Martin Sundermeyer.
 </p>
 
-
+<h3>
+  <span style="font-size: 14px; color: #D2B48C;">Presented at International Conference on Computer Vision 2025</span>
+</h3>
 
 </td>
 </tr>
@@ -139,9 +139,7 @@ redirect_from:
 </td>
 <td width="65%">
   
-<h3>
-  <span style="font-size: 14px; color: #1E90FF;">Association for the Advancement of Artificial Intelligence 2025</span>
-</h3>
+
 <h3>
   <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32251"
    target="_blank"
@@ -157,7 +155,9 @@ redirect_from:
   This paper proposes B2-3Dnet for detection-free image-to-point cloud registration, aiming to reduce distraction from noisy image patches and narrow the cross-modal domain gap. It introduces an uncertainty-aware hierarchical matching module that estimates patch reliability and performs multi-scale coarse-to-fine interactions, and an adversarial modal alignment module that aligns image and point-cloud features using a gradient reversal strategy and a domain classifier.
 </p>
 
-
+<h3>
+  <span style="font-size: 14px; color: #D2B48C;">Presented at Association for the Advancement of Artificial Intelligence 2025</span>
+</h3>
 
 </td>
 </tr>
