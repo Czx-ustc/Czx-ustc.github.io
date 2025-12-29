@@ -38,9 +38,9 @@ redirect_from:
 <div style="font-size: 18px; line-height: 1.7;">
   <p><strong>2025.11:</strong> 🎉🎉 “Adaptive Agent Selection and Interaction Network for Image-to-point cloud Registration” was accepted by AAAI 2026, and I will attend the conference in Singapore.</p>
 
-  <p><strong>2025.09:</strong> 🎉🎉 “CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection” was accepted by ICCV 2025, and I attended the conference in Hawaii 🌴🥥.</p>
+  <p><strong>2025.10:</strong> 🎉🎉 “EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting” (Spotlight) and “BeyondMix: Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation” were accepted by NeurIPS 2025.</p>
 
-  <p><strong>2025.07:</strong> 🎉🎉 “EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting” (Spotlight) and “BeyondMix: Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation” were accepted by NeurIPS 2025.</p>
+  <p><strong>2025.06:</strong> 🎉🎉 “CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection” was accepted by ICCV 2025, and I attended the conference in Hawaii 🌴🥥.</p>
 
   <p><strong>2025.02:</strong> 🎉🎉 “Implicit Correspondence Learning for Image-to-Point Cloud Registration” was accepted by CVPR 2025 as a Highlight!</p>
 
@@ -74,16 +74,17 @@ redirect_from:
 <td width="65%">
 
 <h3>
-<a href="https://arxiv.org/pdf/2511.05965"
-   target="_blank"
-   style="text-decoration: none; color: #1a73e8; font-size: 28px; font-weight: 600;">
-  Adaptive Agent Selection and Interaction Network for Image-to-Point Cloud Registration
-</a>
+  <span style="font-size: 14px; color: #FF69B4;">Association for the Advancement of Artificial Intelligence 2026</span>
+  <a href="https://arxiv.org/pdf/2511.05965" target="_blank" style="text-decoration: none; color: #1a73e8; font-size: 28px; font-weight: 600;">
+    Adaptive Agent Selection and Interaction Network for Image-to-Point Cloud Registration
+  </a>
 </h3>
 <p><span style="color:#00B0F0;">Zhixin Cheng</span>, Xiaotian Yin, Jiacheng Deng, Bohao Liao, Yujia Chen, Xu Zhou, Wenfei Yang*, Baoqun Yin</p>
 <p>
   This paper targets the challenges of image-to-point-cloud registration under noise, where false correspondences are common and cross-modal information is difficult to filter effectively. It proposes a framework composed of Iterative Agent Selection and Reliable Agent Interaction: phase maps enhance structural perception, and reinforcement learning selects more reliable agents to guide cross-modal interaction, thereby reducing mismatches and improving robustness.
 </p>
+
+
 
 </td>
 </tr>
@@ -103,6 +104,7 @@ redirect_from:
 
 
 <h3>
+  <span style="font-size: 14px; color: #FF69B4;">International Conference on Computer Vision 2025</span>
   <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Cheng_CA-I2P_Channel-Adaptive_Registration_Network_with_Global_Optimal_Selection_ICCV_2025_paper.html"
      target="_blank"
      style="text-decoration: none; color: #1a73e8; font-size: 28px; font-weight: 600;">
@@ -133,6 +135,7 @@ redirect_from:
 <td width="65%">
   
 <h3>
+  <span style="font-size: 14px; color: #FF69B4;">Association for the Advancement of Artificial Intelligence 2025</span>
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32251"
    target="_blank"
    style="text-decoration: none; color: #1a73e8; font-size: 28px; font-weight: 600;">
