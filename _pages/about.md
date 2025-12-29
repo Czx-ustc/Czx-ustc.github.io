@@ -73,9 +73,7 @@ redirect_from:
 </td>
 <td width="65%">
 
-<h3>
-  <span style="font-size: 14px; color: #1E90FF;">Association for the Advancement of Artificial Intelligence 2026</span>
-</h3>
+
 <h3>
   <a href="https://arxiv.org/pdf/2511.05965" target="_blank" style="text-decoration: none; color: #1a73e8; font-size: 28px; font-weight: 600;">
     Adaptive Agent Selection and Interaction Network for Image-to-Point Cloud Registration
@@ -86,7 +84,9 @@ redirect_from:
   This paper targets the challenges of image-to-point-cloud registration under noise, where false correspondences are common and cross-modal information is difficult to filter effectively. It proposes a framework composed of Iterative Agent Selection and Reliable Agent Interaction: phase maps enhance structural perception, and reinforcement learning selects more reliable agents to guide cross-modal interaction, thereby reducing mismatches and improving robustness.
 </p>
 
-
+<h3>
+  <span style="font-size: 14px; color: #32CD32;">Association for the Advancement of Artificial Intelligence 2026</span>
+</h3>
 
 </td>
 </tr>
