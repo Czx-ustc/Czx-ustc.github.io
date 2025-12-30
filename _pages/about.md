@@ -55,11 +55,19 @@ redirect_from:
 <div style="display: flex; gap: 12px; margin-top: 10px;">
   <img src="images/iccv1.jpg" alt="ICCV 2025 in Hawaii 1"
        style="flex: 1; width: 0; border-radius: 12px; object-fit: cover; aspect-ratio: 4 / 3;">
+
   <img src="images/basketball.png" alt="basketball"
        style="flex: 1; width: 0; border-radius: 12px; object-fit: cover; aspect-ratio: 4 / 3;">
-  <img src="images/sing.png" alt="sing"
-       style="flex: 1; width: 0; border-radius: 12px; object-fit: cover; aspect-ratio: 4 / 3;">
+
+  <!-- 第三个图：点击打开 B 站视频 -->
+  <a href="https://www.bilibili.com/video/BV1CV411T7Hz/?spm_id_from=333.1387.upload.video_card.click&vd_source=5ea11a9f3fc3d418bc770d294e810466"
+     target="_blank"
+     style="flex: 1; display: block; width: 0; border-radius: 12px; overflow: hidden; aspect-ratio: 4/3;">
+    <img src="images/sing.png" alt="点击打开 B 站视频"
+         style="width: 100%; height: 100%; object-fit: cover;">
+  </a>
 </div>
+
 
 
 
