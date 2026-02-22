@@ -81,7 +81,7 @@ redirect_from:
   </a>
 
 
-  <img src="images/a.jpg" style="flex: 1; width: 0; border-radius: 12px; object-fit: cover; aspect-ratio: 4 / 3;">
+  <img src="images/b3.jpg" style="flex: 1; width: 0; border-radius: 12px; object-fit: cover; aspect-ratio: 4 / 3;">
 
 </div>
 
