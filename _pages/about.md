@@ -55,11 +55,20 @@ redirect_from:
   <p><strong>2023.06:</strong> 🎤🎤 Participated in the graduation gala.</p>
 </div>
 
-
 <div style="display: flex; gap: 12px; margin-top: 10px;">
+
   <img src="images/iccv1.jpg" alt="ICCV 2025 in Hawaii 1"
        style="flex: 1; width: 0; border-radius: 12px; object-fit: cover; aspect-ratio: 4 / 3;">
 
+  <img src="images/b.jpg" 
+       style="flex: 1; width: 0; border-radius: 12px; object-fit: cover; aspect-ratio: 4 / 3;">
+       
+  <img src="images/c.jpg" 
+       style="flex: 1; width: 0; border-radius: 12px; object-fit: cover; aspect-ratio: 4 / 3;">
+
+</div>
+
+<div style="display: flex; gap: 12px; margin-top: 10px;">
   <img src="images/basketball.png" alt="basketball"
        style="flex: 1; width: 0; border-radius: 12px; object-fit: cover; aspect-ratio: 4 / 3;">
 
@@ -70,11 +79,11 @@ redirect_from:
     <img src="images/sing.png" alt="点击打开 B 站视频"
          style="width: 100%; height: 100%; object-fit: cover;">
   </a>
+
+
+  <img src="images/a.png" style="flex: 1; width: 0; border-radius: 12px; object-fit: cover; aspect-ratio: 4 / 3;">
+
 </div>
-
-
-
-
 
 <h2 id="publications" style="font-size: 32px;">📝 Publications</h2>
 
