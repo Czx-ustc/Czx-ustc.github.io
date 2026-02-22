@@ -60,7 +60,7 @@ redirect_from:
   <img src="images/iccv1.jpg" alt="ICCV 2025 in Hawaii 1"
        style="flex: 1; width: 0; border-radius: 12px; object-fit: cover; aspect-ratio: 4 / 3;">
 
-  <img src="images/b.jpg" 
+  <img src="images/b1.jpg" 
        style="flex: 1; width: 0; border-radius: 12px; object-fit: cover; aspect-ratio: 4 / 3;">
        
   <img src="images/c.jpg" 
