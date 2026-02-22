@@ -36,13 +36,17 @@ redirect_from:
 
 
 <div style="font-size: 18px; line-height: 1.7;">
-  <p><strong>2025.11:</strong> 🎉🎉 “Adaptive Agent Selection and Interaction Network for Image-to-point cloud Registration” was accepted by AAAI 2026, and I will attend the conference in Singapore🦁.</p>
+  <p><strong>2025.11:</strong> 🎉🎉 “Rethinking 2D-3D Registration: A Novel Network for High-Value Zone Selection and Representation Consistency Alignment” and “GeoGuide: Hierarchical Geometric Guidance for Open-Vocabulary 3D Semantic Segmentation” was accepted by CVPR 2026.</p>
+
+  <p><strong>2025.11:</strong> 🎉🎉 “Adversarial Attacks Already Tell the Answer: Directional Bias-Guided Test-time Defense for Vision-Language Models” and “RayI2P: Learning Rays for Image-to-Point Cloud Registration” was accepted by ICLR 2026.</p>
+  
+  <p><strong>2025.11:</strong> 🎉🎉 “Adaptive Agent Selection and Interaction Network for Image-to-point cloud Registration” was accepted by AAAI 2026, and I attend the conference in Singapore🦁.</p>
 
   <p><strong>2025.10:</strong> 🎉🎉 “EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting” (Spotlight) and “BeyondMix: Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation” were accepted by NeurIPS 2025.</p>
 
   <p><strong>2025.06:</strong> 🎉🎉 “CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection” was accepted by ICCV 2025, and I attended the conference in Hawaii🥥.</p>
 
-  <p><strong>2025.02:</strong> 🎉🎉 “Implicit Correspondence Learning for Image-to-Point Cloud Registration” was accepted by CVPR 2025 as a Highlight!</p>
+  <p><strong>2025.02:</strong> 🎉🎉 “Implicit Correspondence Learning for Image-to-Point Cloud Registration” was accepted by CVPR 2025 as a Highlight.</p>
 
   <p><strong>2024.12:</strong> 🎉🎉 “Bridge 2D-3D: Uncertainty-aware Hierarchical Registration Network with Domain Alignment” and “DiffCorr: Conditional Diffusion Model with Reliable PseudoLabel Guidance for Unsupervised Point Cloud Shape Correspondence” was accepted by AAAI 2025.</p>
 
@@ -172,7 +176,26 @@ redirect_from:
 </table>
 
 ---
+<h3>
+  <a target="_blank" style="text-decoration: none; color: inherit;">
+    GeoGuide: Hierarchical Geometric Guidance for Open-Vocabulary 3D Semantic Segmentation
+  </a>
+</h3>
+<p>Xujing Tao, Chuxin Wang, Yubo Ai, <span style="color:#00B0F0;">Zhixin Cheng</span>, Zhuoyuan Li, Liangsheng Liu, Yujia Chen, Xinjun Li, Qiao Li, Wenfei Yang*, Tianzhu Zhang </p>
 
+<h3>
+  <a target="_blank" style="text-decoration: none; color: inherit;">
+    RayI2P: Learning Rays for Image-to-Point Cloud Registration
+  </a>
+</h3>
+<p>Xinjun Li, Wenfei Yang*, <span style="color:#00B0F0;">Zhixin Cheng</span>, Jiacheng Deng, Fei Wang, Chen Qian, Tianzhu Zhang</p>
+
+<h3>
+  <a target="_blank" style="text-decoration: none; color: inherit;">
+    Adversarial Attacks Already Tell the Answer: Directional Bias-Guided Test-time Defense for Vision-Language Models
+  </a>
+</h3>
+<p>Liangsheng Liu, Si Chen, Jiamin Wu, Weiwei Feng, <span style="color:#00B0F0;">Zhixin Cheng</span>, Xiaotian Yin, Wenfei Yang*, Tianzhu Zhang</p>
 
 <h3>
   <a href="https://arxiv.org/pdf/2410.15392" target="_blank" style="text-decoration: none; color: inherit;">
