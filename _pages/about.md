@@ -92,11 +92,11 @@ redirect_from:
 </h3>
 <p><span style="color:#00B0F0;">Zhixin Cheng</span>, Bohao Liao, Jiacheng Deng, Xiaotian Yin, Xinjun Li, Yujia Chen, Baoqun Yin, Tianzhu Zhang*</p>
 <p>
-  This paper tackles image-to-point cloud registration by combining reliable region selection. It introduces a High-Value Zone Reinforced Selection (HZRS) module that uses reinforcement learning to pick regions likely to yield high-quality correspondences, and a Zone Representation Consistency Alignment (ZRCA) module that aligns image–point cloud representations via mask reconstruction, similarity-structure consistency, and cross-modal cluster alignment. Experiments on RGB-D Scenes v2, 7-Scenes and KITTI show improved matching robustness and state-of-the-art registration accuracy.
+  This paper rethinks image-to-point cloud registration by addressing two key challenges: many correspondences arise from non-overlapping or low-quality regions, and the same scene areas appear differently across modalities since images capture texture while point clouds represent geometry. The method therefore emphasizes selecting informative, matchable regions first, and then enforcing more consistent cross-modal region representations, reducing ambiguity and mismatches. 
 </p>
 
 <h3>
-  <span style="font-size: 16px; color: #FFA3B0;">Presented at Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026🌸</span>
+  <span style="font-size: 16px; color: #FFA3B0;">Presented at Computer Vision and Pattern Recognition 2026🌸</span>
 </h3>
 
 </td>
