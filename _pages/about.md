@@ -90,7 +90,7 @@ redirect_from:
 <table>
 <tr>
 <td width="35%">
-<img src="cvpr26_poster_R23net.png" width="100%">
+<img src="/images/cvpr26_poster_R23net.png" width="100%">
 </td>
 <td width="65%">
 
