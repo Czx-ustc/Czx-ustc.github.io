@@ -95,7 +95,7 @@ redirect_from:
 <td width="65%">
 
 <h3>
-  <a href="[https://arxiv.org/pdf/2511.05965](https://www.techrxiv.org/users/879116/articles/1392838-rethinking-2d-3d-registration-a-novel-network-for-high-value-zone-selection-and-representation-consistency-alignment)" target="_blank" style="text-decoration: none; color: #1a73e8; font-size: 28px; font-weight: 600;">
+  <a href="https://www.techrxiv.org/users/879116/articles/1392838-rethinking-2d-3d-registration-a-novel-network-for-high-value-zone-selection-and-representation-consistency-alignment" target="_blank" style="text-decoration: none; color: #1a73e8; font-size: 28px; font-weight: 600;">
     Rethinking 2D-3D Registration: A Novel Network for High-Value Zone Selection and Representation Consistency Alignment
   </a>
 </h3>
@@ -263,6 +263,9 @@ redirect_from:
 
 <h2 id="honors-and-awards" class="section-title">🏅 Honors and Awards</h2>
 
+Outstanding Graduate of Anhui Province Ordinary Higher Education Institutions, Class of 2026
+
+Outstanding Graduate of the Class of 2026, USTC
 
 First‑Class Scholarship, USTC Graduate School
 
