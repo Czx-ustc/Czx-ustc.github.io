@@ -40,7 +40,7 @@ redirect_from:
   
   <p><strong>2026.02:</strong> 🎉🎉 “Rethinking 2D-3D Registration: A Novel Network for High-Value Zone Selection and Representation Consistency Alignment” and “GeoGuide: Hierarchical Geometric Guidance for Open-Vocabulary 3D Semantic Segmentation” was accepted by CVPR 2026.</p>
 
-  <p><strong>2025.11:</strong> 🎉🎉 “Adversarial Attacks Already Tell the Answer: Directional Bias-Guided Test-time Defense for Vision-Language Models” and “RayI2P: Learning Rays for Image-to-Point Cloud Registration” was accepted by ICLR 2026.</p>
+  <p><strong>2026.01:</strong> 🎉🎉 “Adversarial Attacks Already Tell the Answer: Directional Bias-Guided Test-time Defense for Vision-Language Models” and “RayI2P: Learning Rays for Image-to-Point Cloud Registration” was accepted by ICLR 2026.</p>
   
   <p><strong>2025.11:</strong> 🎉🎉 “Adaptive Agent Selection and Interaction Network for Image-to-point cloud Registration” was accepted by AAAI 2026, and I attend the conference in Singapore🦁.</p>
 
