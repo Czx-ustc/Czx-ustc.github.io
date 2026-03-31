@@ -36,7 +36,9 @@ redirect_from:
 
 
 <div style="font-size: 18px; line-height: 1.7;">
-  <p><strong>2025.11:</strong> 🎉🎉 “Rethinking 2D-3D Registration: A Novel Network for High-Value Zone Selection and Representation Consistency Alignment” and “GeoGuide: Hierarchical Geometric Guidance for Open-Vocabulary 3D Semantic Segmentation” was accepted by CVPR 2026.</p>
+  <p><strong>2026.03:</strong> 🎉🎉 “GLASS: Geometry-aware Local Alignment and Structure Synchronization Network for 2D-3D Registration” was accepted by IEEE Transactions on Circuits and Systems for Video Technology.</p>
+  
+  <p><strong>2026.02:</strong> 🎉🎉 “Rethinking 2D-3D Registration: A Novel Network for High-Value Zone Selection and Representation Consistency Alignment” and “GeoGuide: Hierarchical Geometric Guidance for Open-Vocabulary 3D Semantic Segmentation” was accepted by CVPR 2026.</p>
 
   <p><strong>2025.11:</strong> 🎉🎉 “Adversarial Attacks Already Tell the Answer: Directional Bias-Guided Test-time Defense for Vision-Language Models” and “RayI2P: Learning Rays for Image-to-Point Cloud Registration” was accepted by ICLR 2026.</p>
   
@@ -86,6 +88,36 @@ redirect_from:
 </div>
 
 <h2 id="publications" style="font-size: 32px;">📝 Publications</h2>
+
+<table>
+<tr>
+<td width="35%">
+<img src="/images/poster-GLASS.png" width="100%">
+</td>
+<td width="65%">
+
+<h3>
+  <a href="https://arxiv.org/pdf/2603.26262" target="_blank" style="text-decoration: none; color: #1a73e8; font-size: 28px; font-weight: 600;">
+    GLASS: Geometry-aware Local Alignment and Structure Synchronization Network for 2D-3D Registration
+  </a>
+</h3>
+<p><span style="color:#00B0F0;">Zhixin Cheng</span>, Jiacheng Deng, Xinjun Li, Bohao Liao, Li Liu, Xiaotian Yin, Baoqun Yin, Tianzhu Zhang*</p>
+<p>
+  This paper revisits image-to-point cloud registration by addressing two key challenges: low-texture or repetitive regions causing mismatches, and inherent modality differences between images and point clouds.
+To tackle these, GLASS introduces a Local Geometry Enhancement module that injects surface normals to enhance structural awareness.
+It further applies a Graph Distribution Consistency module to regularize the similarity distributions of matched keypoints.
+By combining local geometric enhancement with structural consistency, GLASS reduces ambiguity and incorrect matches.
+</p>
+
+<h3>
+  <span style="font-size: 16px; color: #FFA3B0;">Presented at IEEE Transactions on Circuits and Systems for Video Technology🌸</span>
+</h3>
+
+</td>
+</tr>
+</table>
+
+---
 
 <table>
 <tr>
