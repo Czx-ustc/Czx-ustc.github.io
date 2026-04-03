@@ -244,21 +244,21 @@ By combining local geometric enhancement with structural consistency, GLASS redu
 
 ---
 <h3>
-  <a target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://arxiv.org/pdf/2603.26260" target="_blank" style="text-decoration: none; color: inherit;">
     GeoGuide: Hierarchical Geometric Guidance for Open-Vocabulary 3D Semantic Segmentation
   </a>
 </h3>
 <p>Xujing Tao, Chuxin Wang, Yubo Ai, <span style="color:#00B0F0;">Zhixin Cheng</span>, Zhuoyuan Li, Liangsheng Liu, Yujia Chen, Xinjun Li, Qiao Li, Wenfei Yang*, Tianzhu Zhang </p>
 
 <h3>
-  <a target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://openreview.net/pdf?id=arfeGsDWoq" target="_blank" style="text-decoration: none; color: inherit;">
     RayI2P: Learning Rays for Image-to-Point Cloud Registration
   </a>
 </h3>
 <p>Xinjun Li, Wenfei Yang*, <span style="color:#00B0F0;">Zhixin Cheng</span>, Jiacheng Deng, Fei Wang, Chen Qian, Tianzhu Zhang</p>
 
 <h3>
-  <a target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://openreview.net/pdf?id=UqC2oFRRyc" target="_blank" style="text-decoration: none; color: inherit;">
     Adversarial Attacks Already Tell the Answer: Directional Bias-Guided Test-time Defense for Vision-Language Models
   </a>
 </h3>
