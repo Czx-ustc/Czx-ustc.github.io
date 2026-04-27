@@ -36,6 +36,8 @@ redirect_from:
 
 
 <div style="font-size: 18px; line-height: 1.7;">
+  <p><strong>2026.03:</strong> 🎉🎉 “VCR: Variance-Driven Channel Recalibration for Robust Low-Light Enhancement” was accepted by IEEE Transactions on Circuits and Systems for Video Technology.</p>
+  
   <p><strong>2026.03:</strong> 🎉🎉 “GLASS: Geometry-aware Local Alignment and Structure Synchronization Network for 2D-3D Registration” was accepted by IEEE Transactions on Circuits and Systems for Video Technology.</p>
   
   <p><strong>2026.02:</strong> 🎉🎉 “Rethinking 2D-3D Registration: A Novel Network for High-Value Zone Selection and Representation Consistency Alignment” and “GeoGuide: Hierarchical Geometric Guidance for Open-Vocabulary 3D Semantic Segmentation” was accepted by CVPR 2026.</p>
@@ -88,6 +90,36 @@ redirect_from:
 </div>
 
 <h2 id="publications" style="font-size: 32px;">📝 Publications</h2>
+
+<table>
+<tr>
+<td width="35%">
+<img src="/images/poster-VCR.png" width="100%">
+</td>
+<td width="65%">
+
+<h3>
+  <a href="https://arxiv.org/pdf/2603.10975" target="_blank" style="text-decoration: none; color: #1a73e8; font-size: 28px; font-weight: 600;">
+    VCR: Variance-Driven Channel Recalibration for Robust Low-Light Enhancement
+  </a>
+</h3>
+<p><span style="color:#00B0F0;">Zhixin Cheng</span>, Fangwen Zhang, Xiaotian Yin, Baoqun Yin, Haodian Wang*</p>
+<p>
+  This paper revisits low-light image enhancement by addressing two key challenges: channel-level inconsistency between luminance and chrominance, and misaligned color distributions that lead to visual artifacts.
+To tackle these, VCR introduces a Channel Adaptive Adjustment module that leverages variance-aware filtering to enhance channel-wise consistency and focus on informative regions.
+It further applies a Color Distribution Alignment module to regularize chrominance distributions toward well-exposed references.
+By combining channel recalibration with distribution alignment, VCR effectively reduces color distortion and improves perceptual quality.
+</p>
+
+<h3>
+  <span style="font-size: 16px; color: #FFA3B0;">Presented at IEEE Transactions on Circuits and Systems for Video Technology🌸</span>
+</h3>
+
+</td>
+</tr>
+</table>
+
+---
 
 <table>
 <tr>
