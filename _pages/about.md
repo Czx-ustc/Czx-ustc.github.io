@@ -36,7 +36,7 @@ redirect_from:
 
 
 <div style="font-size: 18px; line-height: 1.7;">
-  <p><strong>2026.03:</strong> 🎉🎉 “VCR: Variance-Driven Channel Recalibration for Robust Low-Light Enhancement” was accepted by IEEE Transactions on Circuits and Systems for Video Technology.</p>
+  <p><strong>2026.04:</strong> 🎉🎉 “VCR: Variance-Driven Channel Recalibration for Robust Low-Light Enhancement” was accepted by IEEE Transactions on Circuits and Systems for Video Technology.</p>
   
   <p><strong>2026.03:</strong> 🎉🎉 “GLASS: Geometry-aware Local Alignment and Structure Synchronization Network for 2D-3D Registration” was accepted by IEEE Transactions on Circuits and Systems for Video Technology.</p>
   
