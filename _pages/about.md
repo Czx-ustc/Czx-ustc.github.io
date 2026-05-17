@@ -36,6 +36,8 @@ redirect_from:
 
 
 <div style="font-size: 18px; line-height: 1.7;">
+  <p><strong>2026.04:</strong> 🎉🎉 “FS-I2P: A Hierarchical Focus–Sweep Registration Network with Dynamically Allocated Depth” was accepted by International Conference on Machine Learning, and I attend the conference in Korea🍲.</p>
+  
   <p><strong>2026.04:</strong> 🎉🎉 “VCR: Variance-Driven Channel Recalibration for Robust Low-Light Enhancement” was accepted by IEEE Transactions on Circuits and Systems for Video Technology.</p>
   
   <p><strong>2026.03:</strong> 🎉🎉 “GLASS: Geometry-aware Local Alignment and Structure Synchronization Network for 2D-3D Registration” was accepted by IEEE Transactions on Circuits and Systems for Video Technology.</p>
@@ -90,6 +92,36 @@ redirect_from:
 </div>
 
 <h2 id="publications" style="font-size: 32px;">📝 Publications</h2>
+
+<table>
+<tr>
+<td width="35%">
+<img src="/images/icml26_poster.png" width="100%">
+</td>
+<td width="65%">
+
+<h3>
+  <a href="https://arxiv.org/pdf/2603.10975" target="_blank" style="text-decoration: none; color: #1a73e8; font-size: 28px; font-weight: 600;">
+    FS-I2P: A Hierarchical Focus–Sweep Registration Network with Dynamically Allocated Depth
+  </a>
+</h3>
+<p><span style="color:#00B0F0;">Zhixin Cheng</span>, Yujia Chen, Xujing Tao, Bohao Liao, Xiaotian Yin, Baoqun Yin, Tianzhu Zhang*</p>
+<p>
+  This paper revisits image-to-point cloud registration by addressing two key challenges: scale ambiguity caused by viewpoint changes and repetitive textures, and attention drift during deep cross-modal interaction.
+To tackle these, FS-I2P introduces a hierarchical Focus–Sweep interaction module, where Focus captures global point-cloud scale cues to guide image feature adaptation.
+It further applies a Sweep operation to perform region-wise fine-grained interaction between image and point cloud features, enabling more reliable cross-modal correspondence refinement.
+By combining Focus–Sweep interaction with dynamic layer allocation, FS-I2P effectively reduces mismatches and improves registration robustness and accuracy.
+</p>
+
+<h3>
+  <span style="font-size: 16px; color: #FFA3B0;">Presented at International Conference on Machine Learning🌸</span>
+</h3>
+
+</td>
+</tr>
+</table>
+
+---
 
 <table>
 <tr>
