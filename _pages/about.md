@@ -17,18 +17,20 @@ redirect_from:
 
 
 <p style="font-size: 18px; line-height: 1.7;">
-  I am currently a fourth-year Ph.D. student (2022 – now) in the Department of Automation,
-  University of Science and Technology of China (USTC), advised by
-  <a href="http://staff.ustc.edu.cn/~tzzhang/" target="_blank" style="text-decoration: none; color: inherit;">
-    Prof. Tianzhu Zhang
-  </a>
-  and 
-  <a href="https://faculty.ustc.edu.cn/yinbaoqun/en/index.htm" target="_blank" style="text-decoration: none; color: inherit;">
-    Prof. Baoqun Yin</a>.
-  I spent my M.Eng. studies at the Advanced Technology Research Institute, USTC.
-  Huazhong University of Science and Technology conferred upon me a B.Eng. degree in 2020 from the School of Electrical and Electronic Engineering.
-  My research interests include
-  computer vision, multimodal learning and 3D vision.
+  I am currently a Specially Appointed Associate Professor in the School of Computer Science and Information Engineering, 
+Hefei University of Technology (HFUT). 
+I received my Ph.D. degree from the Department of Automation, 
+University of Science and Technology of China (USTC), under the supervision of
+<a href="http://staff.ustc.edu.cn/~tzzhang/" target="_blank" style="text-decoration: none; color: inherit;">
+  Prof. Tianzhu Zhang
+</a>
+and
+<a href="https://faculty.ustc.edu.cn/yinbaoqun/en/index.htm" target="_blank" style="text-decoration: none; color: inherit;">
+  Prof. Baoqun Yin
+</a>.
+I spent my M.Eng. studies at the Advanced Technology Research Institute, USTC.
+Huazhong University of Science and Technology conferred upon me a B.Eng. degree in 2020 from the School of Electrical and Electronic Engineering.
+My research interests include computer vision, multimodal learning, and 3D vision.
 </p>
 
 
