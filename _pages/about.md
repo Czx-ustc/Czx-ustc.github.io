@@ -28,7 +28,7 @@ and
 <a href="https://faculty.ustc.edu.cn/yinbaoqun/en/index.htm" target="_blank" style="text-decoration: none; color: inherit;">
   Prof. Baoqun Yin</a>.
 I spent my M.Eng. studies at the Advanced Technology Research Institute, USTC.
-Huazhong University of Science and Technology conferred upon me a B.Eng. degree in 2020 from the School of Electrical and Electronic Engineering.
+Huazhong University of Science and Technology (HUST) conferred upon me a B.Eng. degree in 2020 from the School of Electrical and Electronic Engineering.
 My research interests include computer vision, multimodal learning, and 3D vision.
 </p>
 
