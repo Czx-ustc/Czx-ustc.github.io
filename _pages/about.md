@@ -101,7 +101,7 @@ redirect_from:
 <td width="65%">
 
 <h3>
-  <a href="https://arxiv.org/pdf/2603.10975" target="_blank" style="text-decoration: none; color: #1a73e8; font-size: 28px; font-weight: 600;">
+  <a href="https://arxiv.org/pdf/2605.07607" target="_blank" style="text-decoration: none; color: #1a73e8; font-size: 28px; font-weight: 600;">
     FS-I2P: A Hierarchical Focus–Sweep Registration Network with Dynamically Allocated Depth
   </a>
 </h3>
