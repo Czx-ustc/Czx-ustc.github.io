@@ -7,8 +7,9 @@
 
 # Site Settings
 title                    : "Zhixin Cheng"
-description              : " Ph.D. Done🎓. 
-Professor Loading... ⏳"
+description: |
+  Ph.D. Done🎓.
+  Professor Loading... ⏳
 repository               : "Czx-ustc/Czx-ustc.github.io"
 google_scholar_stats_use_cdn : true
 
