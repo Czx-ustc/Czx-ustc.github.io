@@ -25,8 +25,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhixin Cheng"
   avatar           : "images/f.jpg"
-  bio              : "Hefei University of Technology, 
-  University of Science and Technology of China"
+  bio: |
+  Hefei University of Technology
+  University of Science and Technology of China
   location         : "Anhui, China"
   employer         :
   pubmed           : 
