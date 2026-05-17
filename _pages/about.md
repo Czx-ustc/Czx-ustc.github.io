@@ -36,7 +36,7 @@ redirect_from:
 
 
 <div style="font-size: 18px; line-height: 1.7;">
-  <p><strong>2026.04:</strong> 🎉🎉 “FS-I2P: A Hierarchical Focus–Sweep Registration Network with Dynamically Allocated Depth” was accepted by International Conference on Machine Learning, and I attend the conference in Korea🍲.</p>
+  <p><strong>2026.05:</strong> 🎉🎉 “FS-I2P: A Hierarchical Focus–Sweep Registration Network with Dynamically Allocated Depth” was accepted by International Conference on Machine Learning, and I attend the conference in Korea🍲.</p>
   
   <p><strong>2026.04:</strong> 🎉🎉 “VCR: Variance-Driven Channel Recalibration for Robust Low-Light Enhancement” was accepted by IEEE Transactions on Circuits and Systems for Video Technology.</p>
   
