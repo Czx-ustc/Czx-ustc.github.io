@@ -117,7 +117,7 @@ By combining Focus–Sweep interaction with dynamic layer allocation, FS-I2P eff
 </p>
 
 <h3>
-  <span style="font-size: 16px; color: #FFA3B0;">Presented at International Conference on Machine Learning🌸</span>
+  <span style="font-size: 16px; color: #FFA3B0;">Presented at International Conference on Machine Learning 2026🌸</span>
 </h3>
 
 </td>
