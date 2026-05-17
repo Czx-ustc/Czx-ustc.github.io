@@ -87,9 +87,9 @@ My research interests include computer vision, multimodal learning, and 3D visio
 
   <p><strong>2024.12:</strong> 🎉🎉 “Bridge 2D-3D: Uncertainty-aware Hierarchical Registration Network with Domain Alignment” and “DiffCorr: Conditional Diffusion Model with Reliable PseudoLabel Guidance for Unsupervised Point Cloud Shape Correspondence” was accepted by AAAI 2025.</p>
 
-  <p><strong>2024.03:</strong> 🏀🏀 Won the championship in the USTC “复兴杯” Basketball Tournament 2024.</p>
+  <p><strong>2024.03:</strong> 🏀🏀 Won the championship in the USTC “Revitalization Cup” Basketball Tournament 2024.</p>
 
-  <p><strong>2023.06:</strong> 🎤🎤 Participated in the graduation gala.</p>
+  <p><strong>2023.06:</strong> 🎤🎤 Participated in the Graduation Gala 2023.</p>
 </div>
 
 
