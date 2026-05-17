@@ -372,7 +372,7 @@ Deep Space Exploration Scholarship
 
 Excellent Minister, Graduate Student Union, Advanced Technology Research Institute, USTC
 
-USTC “复兴杯” Basketball Champion (2024) and Runner‑up (2023)
+USTC “Revitalization Cup” Basketball Champion (2024) and Runner‑up (2023)
 
 Outstanding Graduate, Huazhong University of Science and Technology
 
