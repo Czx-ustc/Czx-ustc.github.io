@@ -46,7 +46,7 @@ redirect_from:
 
   <p><strong>2026.01:</strong> 🎉🎉 “Adversarial Attacks Already Tell the Answer: Directional Bias-Guided Test-time Defense for Vision-Language Models” and “RayI2P: Learning Rays for Image-to-Point Cloud Registration” was accepted by ICLR 2026.</p>
   
-  <p><strong>2025.11:</strong> 🎉🎉 “Adaptive Agent Selection and Interaction Network for Image-to-point cloud Registration” was accepted by AAAI 2026, and I attend the conference in Singapore🦁.</p>
+  <p><strong>2025.11:</strong> 🎉🎉 “Adaptive Agent Selection and Interaction Network for Image-to-point cloud Registration” was accepted by AAAI 2026, and I attended the conference in Singapore🦁.</p>
 
   <p><strong>2025.10:</strong> 🎉🎉 “EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting” (Spotlight) and “BeyondMix: Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation” were accepted by NeurIPS 2025.</p>
 
