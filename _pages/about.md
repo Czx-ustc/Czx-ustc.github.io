@@ -382,7 +382,7 @@ Level 10 Certification in Erhu Performance🎶
 <h2 id="education" class="section-title">📖 Education</h2>
 
 
-2022.09 – present: Ph.D. in Automation, USTC, Hefei, China
+2022.09 – 2026.06: Ph.D. in Automation, USTC, Hefei, China
 
 2020.09 – 2022.08: M.Eng., Advanced Technology Research Institute, USTC, Hefei, China
 
