@@ -7,9 +7,7 @@
 
 # Site Settings
 title                    : "Zhixin Cheng"
-description: |
-  Ph.D. Done🎓.
-  Professor Loading... ⏳
+description              : "Ph.D. Done🎓.\nProfessor Loading... ⏳"
 repository               : "Czx-ustc/Czx-ustc.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,9 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhixin Cheng"
   avatar           : "images/f.jpg"
-  bio: |
-  Hefei University of Technology
-  University of Science and Technology of China
+  bio              : "Hefei University of Technology \nUniversity of Science and Technology of China"
   location         : "Anhui, China"
   employer         :
   pubmed           : 
