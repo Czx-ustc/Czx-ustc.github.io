@@ -194,7 +194,7 @@ By combining local geometric enhancement with structural consistency, GLASS redu
 <td width="65%">
 
 <h3>
-  <a href="https://www.techrxiv.org/users/879116/articles/1392838-rethinking-2d-3d-registration-a-novel-network-for-high-value-zone-selection-and-representation-consistency-alignment" target="_blank" style="text-decoration: none; color: #1a73e8; font-size: 28px; font-weight: 600;">
+  <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_Rethinking_2D-3D_Registration_A_Novel_Network_for_High-Value_Zone_Selection_CVPR_2026_paper.pdf" target="_blank" style="text-decoration: none; color: #1a73e8; font-size: 28px; font-weight: 600;">
     Rethinking 2D-3D Registration: A Novel Network for High-Value Zone Selection and Representation Consistency Alignment
   </a>
 </h3>
