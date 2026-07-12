@@ -40,7 +40,7 @@ My research interests include computer vision, multimodal learning, and 3D visio
   <img src="images/b1.jpg" 
        style="flex: 1; width: 0; border-radius: 12px; object-fit: cover; aspect-ratio: 4 / 3;">
        
-  <img src="images/c.jpg" 
+  <img src="images/e.jpg" 
        style="flex: 1; width: 0; border-radius: 12px; object-fit: cover; aspect-ratio: 4 / 3;">
 
 </div>
@@ -58,7 +58,7 @@ My research interests include computer vision, multimodal learning, and 3D visio
   </a>
 
 
-  <img src="images/e.jpg" style="flex: 1; width: 0; border-radius: 12px; object-fit: cover; aspect-ratio: 4 / 3;">
+  <img src="images/cheng.jpeg" style="flex: 1; width: 0; border-radius: 12px; object-fit: cover; aspect-ratio: 4 / 3;">
 
 </div>
 
